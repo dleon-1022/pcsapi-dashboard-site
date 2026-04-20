@@ -47,6 +47,15 @@ function titleCase(text) {
     .replace(/\b\w/g, (c) => c.toUpperCase());
 }
 
+function cleanLocationSuffix(text) {
+  return String(text || "")
+    .replace(/_img_\d+_crop_\d+/gi, "")
+    .replace(/_img_\d+/gi, "")
+    .replace(/\s+img\s+\d+\s+crop\s+\d+/gi, "")
+    .replace(/\s+img\s+\d+/gi, "")
+    .trim();
+}
+
 function parseCsvContext(csvName) {
   const raw = String(csvName || "").replace(/\.csv$/i, "").trim();
 
@@ -57,48 +66,117 @@ function parseCsvContext(csvName) {
   let match = raw.match(/^PCSAPI[_\s-]*Distrito[_\s-]*(\d+)\s*-\s*(.+)$/i);
   if (match) {
     client = "PCSAPI";
-    district = `Distrito ${String(parseInt(match[1], 10)).padStart(2, "0")}`;
-    location = titleCase(match[2]);
-    return { client, district, location, display: `${district} · ${location}` };
+    district = String(parseInt(match[1], 10)).padStart(2, "0");
+    location = titleCase(cleanLocationSuffix(match[2]));
+    return {
+      client,
+      district,
+      location,
+      districtLabel: `Distrito ${district}`,
+      display: `Distrito ${district} · ${location}`
+    };
+  }
+
+  match = raw.match(/^Distrito\s+(\d+)\s*-\s*(.+)$/i);
+  if (match) {
+    client = "PCSAPI";
+    district = String(parseInt(match[1], 10)).padStart(2, "0");
+    location = titleCase(cleanLocationSuffix(match[2]));
+    return {
+      client,
+      district,
+      location,
+      districtLabel: `Distrito ${district}`,
+      display: `Distrito ${district} · ${location}`
+    };
   }
 
   match = raw.match(/^LCPERU[_\s-]*(.+)$/i);
   if (match) {
     client = "LCPERU";
-    location = titleCase(match[1]);
-    return { client, district: "", location, display: location };
+    location = titleCase(cleanLocationSuffix(match[1]));
+    return { client, district: "", location, districtLabel: "", display: location };
   }
 
   match = raw.match(/^LCPZ[_\s-]*(.+)$/i);
   if (match) {
     client = "LCPZ";
-    location = titleCase(match[1]);
-    return { client, district: "", location, display: location };
+    location = titleCase(cleanLocationSuffix(match[1]));
+    return { client, district: "", location, districtLabel: "", display: location };
   }
 
-  location = titleCase(raw);
-  return { client: "", district: "", location, display: location };
+  location = titleCase(cleanLocationSuffix(raw));
+  return { client: "", district: "", location, districtLabel: "", display: location };
 }
 
-function updateBrandHeader(rankingData) {
-  const ctx = parseCsvContext(rankingData.csv_name || "");
+function getDatasetContext(dataset, rankingData = null) {
+  const csvName =
+    dataset?.csv_name ||
+    dataset?.source_file ||
+    rankingData?.csv_name ||
+    "";
+
+  const parsed = parseCsvContext(csvName);
+
+  const districtRaw = String(
+    dataset?.district ||
+    dataset?.distrito ||
+    parsed.district ||
+    ""
+  ).trim();
+
+  const district = districtRaw
+    ? String(parseInt(districtRaw, 10)).padStart(2, "0")
+    : "";
+
+  const location = titleCase(
+    cleanLocationSuffix(
+      dataset?.location ||
+      dataset?.locacion ||
+      parsed.location ||
+      ""
+    )
+  );
+
+  const client = String(
+    dataset?.client ||
+    dataset?.cliente ||
+    parsed.client ||
+    ""
+  ).trim();
+
+  return {
+    client,
+    district,
+    districtLabel: district ? `Distrito ${district}` : "",
+    location,
+    display:
+      district && location
+        ? `Distrito ${district} · ${location}`
+        : location || parsed.display || "Dataset"
+  };
+}
+
+function updateBrandHeader(dataset, rankingData) {
+  const ctx = getDatasetContext(dataset, rankingData);
   const brandTitle = document.getElementById("brandTitle");
   const brandSubtitle = document.getElementById("brandSubtitle");
 
   if (!brandTitle || !brandSubtitle) return;
 
-  if (ctx.client === "PCSAPI") {
-    brandTitle.textContent = `${ctx.client} · ${ctx.district}`;
-    brandSubtitle.textContent = ctx.location || "Dashboard ejecutivo de calidad";
-  } else if (ctx.client) {
-    brandTitle.textContent = ctx.client;
-    brandSubtitle.textContent = ctx.location || "Dashboard ejecutivo de calidad";
+  brandTitle.textContent = "Quality Dashboard";
+
+  if (ctx.district && ctx.location) {
+    brandSubtitle.textContent = `Distrito ${ctx.district} | ${ctx.location}`;
+  } else if (ctx.location) {
+    brandSubtitle.textContent = ctx.location;
   } else {
-    brandTitle.textContent = "Quality Dashboard";
-    brandSubtitle.textContent = ctx.location || "Dashboard ejecutivo de calidad";
+    brandSubtitle.textContent = "Resumen ejecutivo de calidad";
   }
 
-  document.title = `${ctx.client || "Quality"} ${ctx.district || ""} ${ctx.location || ""}`.replace(/\s+/g, " ").trim();
+  document.title = ctx.district && ctx.location
+    ? `Quality Dashboard | Distrito ${ctx.district} | ${ctx.location}`
+    : `Quality Dashboard | ${ctx.location || "Dashboard"}`;
 }
 
 function excelSerialToDate(serial) {
@@ -232,17 +310,17 @@ function buildMetrics(detailedData) {
   };
 }
 
-function renderSummary(rankingData, metrics) {
+function renderSummary(dataset, rankingData, metrics) {
   const worstFail = (rankingData.ranking || []).find((item) => item.veredicto === "FAIL");
-  const ctx = parseCsvContext(rankingData.csv_name);
+  const ctx = getDatasetContext(dataset, rankingData);
 
-  document.getElementById("csvName").textContent = ctx.location || ctx.display || "-";
+  document.getElementById("csvName").textContent = ctx.location || "-";
   document.getElementById("avgScore").textContent = rankingData.average_score ?? 0;
   document.getElementById("passFailKpi").textContent = `${metrics.pass} / ${metrics.fail}`;
   document.getElementById("passRateKpi").textContent = `${percentage(metrics.pass, metrics.total).toFixed(1)}% pass`;
   document.getElementById("worstScore").textContent = worstFail?.score ?? 0;
   document.getElementById("worstMeta").textContent = worstFail
-    ? `${worstFail.fecha || "-"} | ${worstFail.locacion || "Sin locación"}`
+    ? `${worstFail.fecha || "-"} | ${ctx.location || worstFail.locacion || "Sin locación"}`
     : "Sin FAIL";
   document.getElementById("passCountLabel").textContent = String(metrics.pass);
   document.getElementById("failCountLabel").textContent = String(metrics.fail);
@@ -451,6 +529,8 @@ function renderRankingList(containerId, rankingData, detailedData, verdict) {
       ? `<div class="small"><a href="${sourceUrl}" target="_blank" rel="noopener noreferrer" title="${sourceUrl}">Ver imagen original</a></div>`
       : '<div class="small">Sin URL original</div>';
 
+    const locationText = titleCase(cleanLocationSuffix(item.locacion || detailMatch?.locacion || "-"));
+
     const el = document.createElement("div");
     el.className = `pizza-card ${verdict === "PASS" ? "pass-card" : "fail-card"}`;
     el.innerHTML = `
@@ -462,7 +542,7 @@ function renderRankingList(containerId, rankingData, detailedData, verdict) {
         </div>
         <div class="card-secondary">
           <div class="small">Fecha: ${item.fecha || "-"}</div>
-          <div class="small">Locación: ${item.locacion || "-"}</div>
+          <div class="small">Locación: ${locationText}</div>
         </div>
         <div class="hover-details">
           <div class="small">Burbuja: ${item.burbuja}</div>
@@ -512,6 +592,7 @@ function renderDetailPage(page) {
   for (const row of rows) {
     const sourceUrl = safeUrl(row.source_url);
     const cropImage = safeImagePath(row.crop_image);
+    const locationText = titleCase(cleanLocationSuffix(row.locacion || "-"));
 
     const originalCell = sourceUrl
       ? `<a class="table-link" href="${sourceUrl}" target="_blank" rel="noopener noreferrer" title="${sourceUrl}">Ver original</a>`
@@ -525,7 +606,7 @@ function renderDetailPage(page) {
     tr.innerHTML = `
       <td>${cropCell}</td>
       <td>${row.fecha || "-"}</td>
-      <td>${row.locacion || "-"}</td>
+      <td>${locationText}</td>
       <td><strong>${row.score ?? "-"}</strong></td>
       <td>${verdictPill(row.veredicto || "-")}</td>
       <td>${row.burbuja || "-"}</td>
@@ -544,9 +625,9 @@ function setupDetailPagination(detailedData) {
   renderDetailPage(1);
 }
 
-function buildOptionLabel(csvName) {
-  const ctx = parseCsvContext(csvName);
-  if (ctx.client === "PCSAPI") return `${ctx.district} · ${ctx.location}`;
+function buildOptionLabel(dataset) {
+  const ctx = getDatasetContext(dataset);
+  if (ctx.district && ctx.location) return `Distrito ${ctx.district} · ${ctx.location}`;
   if (ctx.location) return ctx.location;
   return ctx.display || "Dataset";
 }
@@ -558,8 +639,8 @@ async function loadDataset(dataset) {
   ]);
 
   const metrics = buildMetrics(detailedData);
-  updateBrandHeader(rankingData);
-  renderSummary(rankingData, metrics);
+  updateBrandHeader(dataset, rankingData);
+  renderSummary(dataset, rankingData, metrics);
   renderBulletChart(rankingData);
   renderCharts(metrics);
   renderOperationalInsights(metrics);
@@ -579,18 +660,22 @@ async function main() {
     return;
   }
 
+  select.innerHTML = '<option value="">Seleccionar distrito</option>';
+
   datasets.forEach((ds, idx) => {
     const option = document.createElement("option");
     option.value = idx;
-    option.textContent = buildOptionLabel(ds.csv_name);
+    option.textContent = buildOptionLabel(ds);
     select.appendChild(option);
   });
 
   select.addEventListener("change", async () => {
+    if (select.value === "") return;
     const ds = datasets[Number(select.value)];
     await loadDataset(ds);
   });
 
+  select.value = "0";
   await loadDataset(datasets[0]);
 }
 
