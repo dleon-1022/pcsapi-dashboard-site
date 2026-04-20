@@ -1,0 +1,14 @@
+{
+  "datasets": [
+    {
+      "csv_name": "PCSAPI_Distrito_1 - Cardenas.csv",
+      "detailed_json": "./json/detailed_PCSAPI_Distrito_1 - Cardenas.json",
+      "ranking_json": "./json/ranking_PCSAPI_Distrito_1 - Cardenas.json"
+    },
+    {
+      "csv_name": "PCSAPI_Distrito_1 - Pablo_Livas.csv",
+      "detailed_json": "./json/detailed_PCSAPI_Distrito_1 - Pablo_Livas.json",
+      "ranking_json": "./json/ranking_PCSAPI_Distrito_1 - Pablo_Livas.json"
+    }
+  ]
+}
