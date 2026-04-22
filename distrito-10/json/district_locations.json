@@ -1,0 +1,40 @@
+{
+  "locations": [
+    {
+      "location": "Maravillas",
+      "location_slug": "maravillas",
+      "relative_url": "./maravillas/",
+      "average_score": 63.18,
+      "total_pizzas": 638,
+      "pass_count": 185,
+      "fail_count": 453,
+      "burbuja_count": 76,
+      "grasa_count": 255,
+      "bordes_count": 361
+    },
+    {
+      "location": "Club De Leones",
+      "location_slug": "club-de-leones",
+      "relative_url": "./club-de-leones/",
+      "average_score": 56.27,
+      "total_pizzas": 711,
+      "pass_count": 139,
+      "fail_count": 572,
+      "burbuja_count": 185,
+      "grasa_count": 222,
+      "bordes_count": 447
+    },
+    {
+      "location": "Florida",
+      "location_slug": "florida",
+      "relative_url": "./florida/",
+      "average_score": 56.11,
+      "total_pizzas": 535,
+      "pass_count": 114,
+      "fail_count": 421,
+      "burbuja_count": 153,
+      "grasa_count": 385,
+      "bordes_count": 183
+    }
+  ]
+}
