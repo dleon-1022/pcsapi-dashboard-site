@@ -10,9 +10,14 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <link rel="stylesheet" href="./assets/style.css" />
   <style>
+    .top-strip{
+      height:12px;
+      background:#234c43;
+      width:100%;
+    }
     .brand-bar{
       display:flex;
-      align-items:center;
+      align-items:flex-start;
       justify-content:space-between;
       gap:16px;
       margin-bottom:20px;
@@ -20,19 +25,39 @@
     }
     .brand-left{
       display:flex;
-      align-items:center;
-      gap:14px;
+      align-items:flex-start;
+      gap:16px;
+      flex-wrap:wrap;
     }
-    .brand-logo{
-      width:160px;
+    .logo-box{
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      background:#fff;
+      border:1px solid #d6dee8;
+      border-radius:14px;
+      padding:10px 14px;
+      box-shadow:0 8px 20px rgba(23,50,77,.06);
+    }
+    .brand-logo-lc{
+      width:190px;
       max-width:38vw;
-      height:auto;
+      height:54px;
+      object-fit:contain;
+      object-position:left center;
+      display:block;
+    }
+    .brand-logo-gritsee{
+      width:122px;
+      height:38px;
+      object-fit:contain;
       display:block;
     }
     .brand-meta{
       display:flex;
       flex-direction:column;
       gap:4px;
+      padding-top:2px;
     }
     .brand-title{
       font-size:22px;
@@ -45,11 +70,18 @@
       color:#607893;
       line-height:1.2;
     }
+    .brand-period{
+      font-size:15px;
+      color:#4c6b8a;
+      line-height:1.2;
+      font-weight:500;
+    }
     .dataset-select-wrap{
       display:flex;
       align-items:center;
       gap:10px;
       flex-wrap:wrap;
+      justify-content:flex-end;
     }
     .dataset-select-label{
       font-size:12px;
@@ -64,29 +96,47 @@
       }
       .dataset-select-wrap{
         width:100%;
+        justify-content:flex-start;
       }
       #datasetSelect{
         width:100%;
+      }
+      .brand-logo-lc{
+        width:160px;
+        height:48px;
       }
     }
   </style>
 </head>
 <body>
+  <div class="top-strip"></div>
+
   <div class="wrap">
     <div class="brand-bar">
       <div class="brand-left">
-        <img
-          class="brand-logo"
-          src="https://cdn.prod.website-files.com/630dfafcb284c6e437ab4f4a/630dfd5da3b28475ea041458_logo-color-top.svg"
-          alt="Gritsee"
-        />
+        <div class="logo-box">
+          <img
+            class="brand-logo-lc"
+            src="https://d4lblcznaatk8.cloudfront.net/report-resources/little-caesars-logo-vector-text.png"
+            alt="Little Caesars"
+          />
+        </div>
+
         <div class="brand-meta">
           <div class="brand-title" id="brandTitle">Quality Dashboard</div>
           <div class="brand-subtitle" id="brandSubtitle">Resumen ejecutivo de calidad</div>
+          <div class="brand-period" id="weekRange">Período: -</div>
         </div>
       </div>
 
       <div class="dataset-select-wrap">
+        <div class="logo-box">
+          <img
+            class="brand-logo-gritsee"
+            src="https://cdn.prod.website-files.com/630dfafcb284c6e437ab4f4a/630dfd5da3b28475ea041458_logo-color-top.svg"
+            alt="Gritsee"
+          />
+        </div>
         <span class="dataset-select-label">Locación / dataset</span>
         <select id="datasetSelect"></select>
       </div>
@@ -100,18 +150,20 @@
           <div class="value" id="csvName">-</div>
         </div>
         <div class="card">
-          <div class="label">Promedio score</div>
+          <div class="label">Puntaje Promedio</div>
           <div class="value" id="avgScore">0</div>
         </div>
         <div class="card">
           <div class="label">PASS / FAIL</div>
           <div class="value" id="passFailKpi">0 / 0</div>
-          <div class="subvalue" id="passRateKpi">0% pass</div>
         </div>
         <div class="card">
-          <div class="label">Top FAIL score</div>
-          <div class="value" id="worstScore">0</div>
-          <div class="subvalue" id="worstMeta">-</div>
+          <div class="label">Score</div>
+          <div class="value" id="passRateKpi">0%</div>
+        </div>
+        <div class="card">
+          <div class="label">Pizzas Analizadas</div>
+          <div class="value" id="totalPizzasKpi">0</div>
         </div>
       </div>
     </div>

@@ -54,9 +54,99 @@ function safeImagePath(path) {
 }
 
 function renderHeader(summary) {
-  document.getElementById("districtTitle").textContent = summary.display_name || summary.district_slug || "Distrito";
-  document.getElementById("districtSubtitle").textContent = `${summary.company || "Compañía"} · Resumen ejecutivo distrital`;
-  document.title = `${summary.display_name || summary.district_slug} · Dashboard distrital`;
+  document.getElementById("districtTitle").textContent =
+    summary.display_name || summary.district_slug || "Distrito";
+  document.getElementById("districtSubtitle").textContent =
+    `${summary.company || "Compañía"} · Resumen ejecutivo distrital`;
+  document.title =
+    `${summary.display_name || summary.district_slug} · Dashboard distrital`;
+}
+
+function formatShortSpanishDate(date) {
+  const months = ["ene.", "feb.", "mar.", "abr.", "may.", "jun.", "jul.", "ago.", "sep.", "oct.", "nov.", "dic."];
+  return `${months[date.getMonth()]} ${date.getDate()}`;
+}
+
+function parseRowDate(row) {
+  const rawDate = String(row.fecha || "").trim();
+  const sourceUrl = String(row.source_url || "").trim();
+
+  const urlMatch = sourceUrl.match(/(\d{8})-(\d{6})/);
+  if (urlMatch) {
+    const [, yyyymmdd, hhmmss] = urlMatch;
+    const year = Number(yyyymmdd.slice(0, 4));
+    const month = Number(yyyymmdd.slice(4, 6)) - 1;
+    const day = Number(yyyymmdd.slice(6, 8));
+    const hour = Number(hhmmss.slice(0, 2));
+    const minute = Number(hhmmss.slice(2, 4));
+    const second = Number(hhmmss.slice(4, 6));
+    const parsed = new Date(year, month, day, hour, minute, second);
+    if (!Number.isNaN(parsed.getTime())) return parsed;
+  }
+
+  if (/^\d+(\.\d+)?$/.test(rawDate)) {
+    const numeric = Number(rawDate);
+    if (Number.isFinite(numeric)) {
+      const excelEpoch = Date.UTC(1899, 11, 30);
+      const millis = excelEpoch + numeric * 24 * 60 * 60 * 1000;
+      const parsed = new Date(millis);
+      if (!Number.isNaN(parsed.getTime())) return parsed;
+    }
+  }
+
+  if (rawDate) {
+    const parsed = new Date(rawDate);
+    if (!Number.isNaN(parsed.getTime())) return parsed;
+  }
+
+  return null;
+}
+
+function locationScore(row) {
+  return percentage(Number(row.pass_count ?? 0), Number(row.total_pizzas ?? 0));
+}
+
+async function renderWeekRangeFromLocations(locations) {
+  const allDates = [];
+
+  for (const loc of locations) {
+    if (!loc.relative_url) continue;
+
+    try {
+      const manifest = await fetchJson(`${loc.relative_url}manifest.json`);
+      const datasets = manifest.datasets || [];
+
+      for (const ds of datasets) {
+        if (!ds.detailed_json) continue;
+        try {
+          const detailed = await fetchJson(`${loc.relative_url}${ds.detailed_json.replace(/^\.\//, "")}`);
+          detailed.forEach((row) => {
+            const parsed = parseRowDate(row);
+            if (parsed) allDates.push(parsed);
+          });
+        } catch (err) {
+          console.warn(`No se pudo cargar detailed para ${loc.location}:`, err);
+        }
+      }
+    } catch (err) {
+      console.warn(`No se pudo cargar manifest de ${loc.location}:`, err);
+    }
+  }
+
+  const target = document.getElementById("weekRange");
+  if (!target) return;
+
+  if (!allDates.length) {
+    target.textContent = "Período: -";
+    return;
+  }
+
+  allDates.sort((a, b) => a - b);
+  const minDate = allDates[0];
+  const maxDate = allDates[allDates.length - 1];
+
+  target.textContent =
+    `Período: ${formatShortSpanishDate(minDate)} - ${formatShortSpanishDate(maxDate)}, ${maxDate.getFullYear()}`;
 }
 
 function renderSummary(summary) {
@@ -64,7 +154,8 @@ function renderSummary(summary) {
   document.getElementById("totalPizzas").textContent = summary.total_pizzas ?? 0;
   document.getElementById("avgScore").textContent = Number(summary.average_score ?? 0).toFixed(1);
   document.getElementById("passFail").textContent = `${summary.pass_count ?? 0} / ${summary.fail_count ?? 0}`;
-  document.getElementById("passRate").textContent = `${percentage(summary.pass_count ?? 0, summary.total_pizzas ?? 0).toFixed(1)}% pass`;
+  document.getElementById("passRate").textContent =
+    `${percentage(summary.pass_count ?? 0, summary.total_pizzas ?? 0).toFixed(1)}%`;
 }
 
 function renderLocationCards(locations) {
@@ -74,6 +165,7 @@ function renderLocationCards(locations) {
   locations.forEach((row) => {
     const best = row.best_item || {};
     const worst = row.worst_item || {};
+    const score = locationScore(row);
 
     const bestImg = best.crop_image ? safeImagePath(best.crop_image) : "";
     const worstImg = worst.crop_image ? safeImagePath(worst.crop_image) : "";
@@ -94,8 +186,8 @@ function renderLocationCards(locations) {
           <div class="location-name">${titleCase(row.location)}</div>
           <a class="location-link" href="${row.relative_url}">Abrir dashboard individual</a>
         </div>
-        <div class="score-chip ${scoreClass(Number(row.average_score ?? 0))}">
-          ${Number(row.average_score ?? 0).toFixed(1)}
+        <div class="score-chip ${scoreClass(score)}">
+          ${score.toFixed(1)}%
         </div>
       </div>
 
@@ -175,11 +267,11 @@ function commonOptions(indexAxis = "x") {
   };
 }
 
-function renderCharts(summary, locations) {
+function renderCharts(locations) {
   destroyCharts();
 
   const labels = locations.map((x) => titleCase(x.location));
-  const avgScores = locations.map((x) => Number(x.average_score ?? 0));
+  const scores = locations.map((x) => locationScore(x));
   const passCounts = locations.map((x) => Number(x.pass_count ?? 0));
   const failCounts = locations.map((x) => Number(x.fail_count ?? 0));
   const passRates = locations.map((x) => percentage(Number(x.pass_count ?? 0), Number(x.total_pizzas ?? 0)));
@@ -195,8 +287,8 @@ function renderCharts(summary, locations) {
         labels,
         datasets: [
           {
-            label: "Promedio",
-            data: avgScores,
+            label: "Score",
+            data: scores,
             backgroundColor: "#89b4e5",
             borderRadius: 10,
             maxBarThickness: 42
@@ -311,10 +403,12 @@ function renderTable(locations) {
   tbody.innerHTML = "";
 
   locations.forEach((row) => {
+    const score = locationScore(row);
+
     const tr = document.createElement("tr");
     tr.innerHTML = `
       <td><strong>${titleCase(row.location)}</strong></td>
-      <td><strong>${Number(row.average_score ?? 0).toFixed(1)}</strong> ${verdictPill(Number(row.average_score ?? 0))}</td>
+      <td><strong>${score.toFixed(1)}%</strong> ${verdictPill(score)}</td>
       <td>${row.total_pizzas ?? 0}</td>
       <td>${row.pass_count ?? 0}</td>
       <td>${row.fail_count ?? 0}</td>
@@ -333,13 +427,16 @@ async function main() {
     fetchJson("./json/district_locations.json")
   ]);
 
-  const locations = (locationPayload.locations || []).slice().sort((a, b) => Number(b.average_score ?? 0) - Number(a.average_score ?? 0));
+  const locations = (locationPayload.locations || [])
+    .slice()
+    .sort((a, b) => locationScore(b) - locationScore(a));
 
   renderHeader(summary);
   renderSummary(summary);
   renderLocationCards(locations);
-  renderCharts(summary, locations);
+  renderCharts(locations);
   renderTable(locations);
+  await renderWeekRangeFromLocations(locations);
 }
 
 main().catch((err) => {

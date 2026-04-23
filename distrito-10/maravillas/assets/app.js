@@ -160,6 +160,32 @@ function formatHourSlot(date) {
   return `${hour}:00 - ${hour}:59`;
 }
 
+function formatShortSpanishDate(date) {
+  const months = ["ene.", "feb.", "mar.", "abr.", "may.", "jun.", "jul.", "ago.", "sep.", "oct.", "nov.", "dic."];
+  return `${months[date.getMonth()]} ${date.getDate()}`;
+}
+
+function renderWeekRangeFromDetailed(detailedData) {
+  const dates = detailedData
+    .map((row) => parseDateInfo(row))
+    .filter(Boolean)
+    .sort((a, b) => a - b);
+
+  const target = document.getElementById("weekRange");
+  if (!target) return;
+
+  if (!dates.length) {
+    target.textContent = "Período: -";
+    return;
+  }
+
+  const minDate = dates[0];
+  const maxDate = dates[dates.length - 1];
+
+  target.textContent =
+    `Período: ${formatShortSpanishDate(minDate)} - ${formatShortSpanishDate(maxDate)}, ${maxDate.getFullYear()}`;
+}
+
 function buildIncidentTimeline(detailedData) {
   const dayCounts = new Map();
   const hourCounts = new Map();
@@ -241,17 +267,14 @@ function buildMetrics(detailedData) {
 }
 
 function renderSummary(rankingData, metrics) {
-  const worstFail = (rankingData.ranking || []).find((item) => item.veredicto === "FAIL");
   const ctx = parseCsvContext(rankingData.csv_name);
 
   document.getElementById("csvName").textContent = ctx.location || ctx.display || "-";
   document.getElementById("avgScore").textContent = rankingData.average_score ?? 0;
   document.getElementById("passFailKpi").textContent = `${metrics.pass} / ${metrics.fail}`;
-  document.getElementById("passRateKpi").textContent = `${percentage(metrics.pass, metrics.total).toFixed(1)}% pass`;
-  document.getElementById("worstScore").textContent = worstFail?.score ?? 0;
-  document.getElementById("worstMeta").textContent = worstFail
-    ? `${worstFail.fecha || "-"} | ${worstFail.locacion || "Sin locación"}`
-    : "Sin FAIL";
+  document.getElementById("passRateKpi").textContent =
+    `${percentage(metrics.pass, metrics.total).toFixed(1)}%`;
+  document.getElementById("totalPizzasKpi").textContent = String(metrics.total);
   document.getElementById("passCountLabel").textContent = String(metrics.pass);
   document.getElementById("failCountLabel").textContent = String(metrics.fail);
 }
@@ -402,7 +425,7 @@ function renderOperationalInsights(metrics) {
   const worstHour = (metrics.hourHighlights || []).reduce((max, item) => (item.total > (max?.total || 0) ? item : max), null);
 
   document.getElementById("worstDayInsight").textContent = worstDay
-    ? `Peor día: ${worstDay.label} con ${worstDay.total} incidentes`
+    ? `Día con más incidentes: ${worstDay.label} con ${worstDay.total} incidentes`
     : "Sin incidentes relevantes";
 
   document.getElementById("worstHourInsight").textContent = worstHour
@@ -567,6 +590,7 @@ async function loadDataset(dataset) {
 
   const metrics = buildMetrics(detailedData);
   updateBrandHeader(rankingData);
+  renderWeekRangeFromDetailed(detailedData);
   renderSummary(rankingData, metrics);
   renderBulletChart(rankingData);
   renderCharts(metrics);

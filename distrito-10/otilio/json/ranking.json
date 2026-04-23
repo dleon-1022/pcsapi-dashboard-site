@@ -1,8 +1,8 @@
 {
   "csv_name": "PCSAPI_Distrito 10 - Otilio.csv",
-  "total_source_images": 71,
-  "total_pizzas_detected": 119,
-  "average_score": 68.78,
+  "total_source_images": 65,
+  "total_pizzas_detected": 75,
+  "average_score": 69.93,
   "ranking": [
     {
       "rank": 1,
@@ -19,7 +19,7 @@
     },
     {
       "rank": 2,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0008_crop_02.jpg",
+      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0008_crop_01.jpg",
       "score": 90,
       "veredicto": "PASS",
       "burbuja": "no",
@@ -58,84 +58,6 @@
     },
     {
       "rank": 5,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0046_crop_02.jpg",
-      "score": 90,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "aceptable",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 6,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0054_crop_02.jpg",
-      "score": 90,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "aceptable",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 7,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0070_crop_02.jpg",
-      "score": 90,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "aceptable",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 8,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0001_crop_03.jpg",
-      "score": 85,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 9,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0055_crop_02.jpg",
-      "score": 85,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 10,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0006_crop_01.jpg",
-      "score": 80,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "aceptable",
-      "fecha": "2026-04-17",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 11,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0007_crop_01.jpg",
       "score": 80,
       "veredicto": "PASS",
@@ -148,8 +70,8 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 12,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0009_crop_02.jpg",
+      "rank": 6,
+      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0009_crop_01.jpg",
       "score": 80,
       "veredicto": "PASS",
       "burbuja": "no",
@@ -161,7 +83,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 13,
+      "rank": 7,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0010_crop_02.jpg",
       "score": 80,
       "veredicto": "PASS",
@@ -174,7 +96,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 14,
+      "rank": 8,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0012_crop_01.jpg",
       "score": 80,
       "veredicto": "PASS",
@@ -187,7 +109,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 15,
+      "rank": 9,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0013_crop_01.jpg",
       "score": 80,
       "veredicto": "PASS",
@@ -200,7 +122,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 16,
+      "rank": 10,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0014_crop_01.jpg",
       "score": 80,
       "veredicto": "PASS",
@@ -213,20 +135,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 17,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0015_crop_01.jpg",
-      "score": 80,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "aceptable",
-      "fecha": "2026-04-17",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 18,
+      "rank": 11,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0020_crop_01.jpg",
       "score": 80,
       "veredicto": "PASS",
@@ -239,8 +148,8 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 19,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0036_crop_02.jpg",
+      "rank": 12,
+      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0036_crop_01.jpg",
       "score": 80,
       "veredicto": "PASS",
       "burbuja": "no",
@@ -252,7 +161,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 20,
+      "rank": 13,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0040_crop_01.jpg",
       "score": 80,
       "veredicto": "PASS",
@@ -265,7 +174,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 21,
+      "rank": 14,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0042_crop_01.jpg",
       "score": 80,
       "veredicto": "PASS",
@@ -278,7 +187,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 22,
+      "rank": 15,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0045_crop_01.jpg",
       "score": 80,
       "veredicto": "PASS",
@@ -291,20 +200,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 23,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0045_crop_02.jpg",
-      "score": 80,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "aceptable",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 24,
+      "rank": 16,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0047_crop_01.jpg",
       "score": 80,
       "veredicto": "PASS",
@@ -317,46 +213,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 25,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0047_crop_02.jpg",
-      "score": 80,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "aceptable",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 26,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0047_crop_03.jpg",
-      "score": 80,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "aceptable",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 27,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0048_crop_02.jpg",
-      "score": 80,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "aceptable",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 28,
+      "rank": 17,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0054_crop_01.jpg",
       "score": 80,
       "veredicto": "PASS",
@@ -369,7 +226,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 29,
+      "rank": 18,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0059_crop_01.jpg",
       "score": 80,
       "veredicto": "PASS",
@@ -382,46 +239,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 30,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0059_crop_02.jpg",
-      "score": 80,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "aceptable",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 31,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0061_crop_02.jpg",
-      "score": 80,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "aceptable",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 32,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0062_crop_02.jpg",
-      "score": 80,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "aceptable",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 33,
+      "rank": 19,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0068_crop_01.jpg",
       "score": 80,
       "veredicto": "PASS",
@@ -434,7 +252,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 34,
+      "rank": 20,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0070_crop_01.jpg",
       "score": 80,
       "veredicto": "PASS",
@@ -447,7 +265,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 35,
+      "rank": 21,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0001_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -460,7 +278,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 36,
+      "rank": 22,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0010_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -473,8 +291,8 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 37,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0015_crop_02.jpg",
+      "rank": 23,
+      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0017_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
       "burbuja": "no",
@@ -486,21 +304,8 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 38,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0016_crop_01.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 39,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0017_crop_02.jpg",
+      "rank": 24,
+      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0018_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
       "burbuja": "no",
@@ -512,20 +317,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 40,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0018_crop_02.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 41,
+      "rank": 25,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0019_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -538,7 +330,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 42,
+      "rank": 26,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0021_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -551,33 +343,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 43,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0024_crop_02.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 44,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0025_crop_02.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 45,
+      "rank": 27,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0032_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -590,7 +356,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 46,
+      "rank": 28,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0038_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -603,7 +369,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 47,
+      "rank": 29,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0039_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -616,7 +382,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 48,
+      "rank": 30,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0040_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -629,7 +395,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 49,
+      "rank": 31,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0041_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -642,7 +408,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 50,
+      "rank": 32,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0042_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -655,21 +421,8 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 51,
+      "rank": 33,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0043_crop_01.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 52,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0043_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
       "burbuja": "no",
@@ -681,7 +434,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 53,
+      "rank": 34,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0048_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -694,7 +447,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 54,
+      "rank": 35,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0051_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -707,7 +460,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 55,
+      "rank": 36,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0055_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -720,7 +473,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 56,
+      "rank": 37,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0057_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -733,20 +486,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 57,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0060_crop_02.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 58,
+      "rank": 38,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0062_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -759,8 +499,8 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 59,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0064_crop_02.jpg",
+      "rank": 39,
+      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0064_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
       "burbuja": "no",
@@ -772,7 +512,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 60,
+      "rank": 40,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0065_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -785,7 +525,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 61,
+      "rank": 41,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0066_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -798,7 +538,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 62,
+      "rank": 42,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0067_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -811,7 +551,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 63,
+      "rank": 43,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0069_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -824,7 +564,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 64,
+      "rank": 44,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0071_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -837,20 +577,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 65,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0000_crop_01.jpg",
-      "score": 70,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 66,
+      "rank": 45,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0002_crop_01.jpg",
       "score": 70,
       "veredicto": "FAIL",
@@ -863,7 +590,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 67,
+      "rank": 46,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0005_crop_01.jpg",
       "score": 70,
       "veredicto": "FAIL",
@@ -876,7 +603,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 68,
+      "rank": 47,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0028_crop_02.jpg",
       "score": 70,
       "veredicto": "FAIL",
@@ -889,20 +616,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 69,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0036_crop_01.jpg",
-      "score": 70,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 70,
+      "rank": 48,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0046_crop_01.jpg",
       "score": 70,
       "veredicto": "FAIL",
@@ -915,20 +629,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 71,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0049_crop_01.jpg",
-      "score": 70,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 72,
+      "rank": 49,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0052_crop_01.jpg",
       "score": 70,
       "veredicto": "FAIL",
@@ -941,21 +642,8 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 73,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0068_crop_02.jpg",
-      "score": 70,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "aceptable",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 74,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0000_crop_02.jpg",
+      "rank": 50,
+      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0000_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
       "burbuja": "no",
@@ -967,8 +655,8 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 75,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0006_crop_02.jpg",
+      "rank": 51,
+      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0006_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
       "burbuja": "no",
@@ -980,7 +668,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 76,
+      "rank": 52,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0011_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -993,20 +681,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 77,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0016_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 78,
+      "rank": 53,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0035_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -1019,20 +694,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 79,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0050_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "aceptable",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 80,
+      "rank": 54,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0053_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -1045,7 +707,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 81,
+      "rank": 55,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0063_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -1058,59 +720,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 82,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0014_crop_02.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "aceptable",
-      "fecha": "2026-04-17",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 83,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0017_crop_01.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 84,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0018_crop_01.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 85,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0021_crop_02.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 86,
+      "rank": 56,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0022_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -1123,7 +733,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 87,
+      "rank": 57,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0023_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -1136,7 +746,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 88,
+      "rank": 58,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0026_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -1149,20 +759,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 89,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0027_crop_01.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 90,
+      "rank": 59,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0028_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -1175,7 +772,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 91,
+      "rank": 60,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0031_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -1188,7 +785,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 92,
+      "rank": 61,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0032_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -1201,7 +798,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 93,
+      "rank": 62,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0033_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -1214,7 +811,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 94,
+      "rank": 63,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0034_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -1227,20 +824,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 95,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0035_crop_02.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 96,
+      "rank": 64,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0038_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -1253,7 +837,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 97,
+      "rank": 65,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0039_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -1266,7 +850,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 98,
+      "rank": 66,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0058_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -1279,7 +863,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 99,
+      "rank": 67,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0060_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -1292,33 +876,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 100,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0009_crop_01.jpg",
-      "score": 55,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "aceptable",
-      "fecha": "2026-04-17",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 101,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0025_crop_01.jpg",
-      "score": 55,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 102,
+      "rank": 68,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0056_crop_01.jpg",
       "score": 55,
       "veredicto": "FAIL",
@@ -1331,20 +889,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 103,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0064_crop_01.jpg",
-      "score": 55,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 104,
+      "rank": 69,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0004_crop_02.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -1357,33 +902,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 105,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0008_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 106,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0029_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 107,
+      "rank": 70,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0050_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -1396,7 +915,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 108,
+      "rank": 71,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0061_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -1409,34 +928,8 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 109,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0067_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 110,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0024_crop_01.jpg",
-      "score": 45,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 111,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0049_crop_02.jpg",
+      "rank": 72,
+      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0049_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
       "burbuja": "si",
@@ -1448,59 +941,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 112,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0056_crop_02.jpg",
-      "score": 45,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 113,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0059_crop_03.jpg",
-      "score": 45,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 114,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0063_crop_02.jpg",
-      "score": 45,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 115,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0030_crop_01.jpg",
-      "score": 35,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 116,
+      "rank": 73,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0037_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -1513,20 +954,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 117,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0001_crop_02.jpg",
-      "score": 30,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Otilio"
-    },
-    {
-      "rank": 118,
+      "rank": 74,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0004_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -1539,7 +967,7 @@
       "locacion": "Otilio"
     },
     {
-      "rank": 119,
+      "rank": 75,
       "crop_image": "crops/PCSAPI_Distrito 10 - Otilio_img_0029_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",

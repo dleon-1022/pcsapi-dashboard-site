@@ -1,8 +1,8 @@
 {
   "csv_name": "PCSAPI_Distrito 10 - Mirasierra.csv",
-  "total_source_images": 380,
-  "total_pizzas_detected": 464,
-  "average_score": 56.54,
+  "total_source_images": 253,
+  "total_pizzas_detected": 253,
+  "average_score": 58.1,
   "ranking": [
     {
       "rank": 1,
@@ -19,32 +19,6 @@
     },
     {
       "rank": 2,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0035_crop_01.jpg",
-      "score": 85,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 3,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0036_crop_02.jpg",
-      "score": 85,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 4,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0069_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -57,7 +31,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 5,
+      "rank": 3,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0074_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -70,7 +44,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 6,
+      "rank": 4,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0077_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -83,7 +57,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0078_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -96,7 +70,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0087_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -109,7 +83,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0122_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -122,7 +96,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0123_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -135,7 +109,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 11,
+      "rank": 9,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0199_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -148,20 +122,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 12,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0251_crop_01.jpg",
-      "score": 85,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 13,
+      "rank": 10,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0264_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -174,7 +135,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 14,
+      "rank": 11,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0313_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -187,7 +148,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 15,
+      "rank": 12,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0321_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -200,7 +161,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 16,
+      "rank": 13,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0345_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -213,7 +174,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 17,
+      "rank": 14,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0347_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -226,7 +187,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 18,
+      "rank": 15,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0353_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -239,7 +200,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 19,
+      "rank": 16,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0359_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -252,20 +213,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 20,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0002_crop_02.jpg",
-      "score": 80,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "aceptable",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 21,
+      "rank": 17,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0003_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -278,7 +226,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 22,
+      "rank": 18,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0004_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -291,20 +239,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 23,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0011_crop_02.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 24,
+      "rank": 19,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0016_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -317,7 +252,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 25,
+      "rank": 20,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0018_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -330,7 +265,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 26,
+      "rank": 21,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0028_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -343,33 +278,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 27,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0029_crop_01.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 28,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0030_crop_02.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 29,
+      "rank": 22,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0032_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -382,46 +291,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 30,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0034_crop_01.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 31,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0038_crop_02.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 32,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0039_crop_02.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 33,
+      "rank": 23,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0045_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -434,46 +304,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 34,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0048_crop_01.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 35,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0054_crop_02.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 36,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0055_crop_02.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 37,
+      "rank": 24,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0056_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -486,46 +317,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 38,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0056_crop_02.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 39,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0057_crop_02.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 40,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0058_crop_02.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 41,
+      "rank": 25,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0059_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -538,20 +330,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 42,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0060_crop_02.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 43,
+      "rank": 26,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0065_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -564,7 +343,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 44,
+      "rank": 27,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0073_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -577,7 +356,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 45,
+      "rank": 28,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0075_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -590,7 +369,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 46,
+      "rank": 29,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0080_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -603,7 +382,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 47,
+      "rank": 30,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0081_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -616,7 +395,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 48,
+      "rank": 31,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0082_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -629,7 +408,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 49,
+      "rank": 32,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0097_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -642,20 +421,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 50,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0098_crop_01.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 51,
+      "rank": 33,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0100_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -668,7 +434,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 52,
+      "rank": 34,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0104_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -681,7 +447,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 53,
+      "rank": 35,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0105_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -694,46 +460,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 54,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0120_crop_02.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 55,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0134_crop_01.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 56,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0139_crop_01.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 57,
+      "rank": 36,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0158_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -746,7 +473,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 58,
+      "rank": 37,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0159_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -759,7 +486,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 59,
+      "rank": 38,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0166_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -772,20 +499,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 60,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0167_crop_01.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 61,
+      "rank": 39,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0171_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -798,7 +512,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 62,
+      "rank": 40,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0175_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -811,7 +525,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 63,
+      "rank": 41,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0176_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -824,20 +538,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 64,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0179_crop_01.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 65,
+      "rank": 42,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0181_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -850,7 +551,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 66,
+      "rank": 43,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0188_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -863,7 +564,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 67,
+      "rank": 44,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0192_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -876,46 +577,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 68,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0201_crop_01.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 69,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0202_crop_01.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 70,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0205_crop_01.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 71,
+      "rank": 45,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0207_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -928,7 +590,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 72,
+      "rank": 46,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0212_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -941,7 +603,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 73,
+      "rank": 47,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0214_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -954,7 +616,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 74,
+      "rank": 48,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0215_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -967,33 +629,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 75,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0218_crop_02.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 76,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0223_crop_02.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 77,
+      "rank": 49,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0234_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1006,7 +642,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 78,
+      "rank": 50,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0236_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1019,33 +655,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 79,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0239_crop_01.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 80,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0241_crop_01.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 81,
+      "rank": 51,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0250_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1058,33 +668,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 82,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0257_crop_01.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 83,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0272_crop_01.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 84,
+      "rank": 52,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0284_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1097,7 +681,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 85,
+      "rank": 53,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0292_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1110,7 +694,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 86,
+      "rank": 54,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0293_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1123,7 +707,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 87,
+      "rank": 55,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0301_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1136,7 +720,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 88,
+      "rank": 56,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0306_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1149,7 +733,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 89,
+      "rank": 57,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0307_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1162,7 +746,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 90,
+      "rank": 58,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0317_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1175,7 +759,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 91,
+      "rank": 59,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0323_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1188,20 +772,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 92,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0333_crop_01.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 93,
+      "rank": 60,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0334_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1214,7 +785,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 94,
+      "rank": 61,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0336_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1227,7 +798,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 95,
+      "rank": 62,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0342_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1240,7 +811,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 96,
+      "rank": 63,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0349_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1253,7 +824,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 97,
+      "rank": 64,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0351_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1266,7 +837,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 98,
+      "rank": 65,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0352_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1279,7 +850,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 99,
+      "rank": 66,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0356_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1292,7 +863,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 100,
+      "rank": 67,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0358_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1305,7 +876,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 101,
+      "rank": 68,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0361_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1318,20 +889,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 102,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0367_crop_02.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 103,
+      "rank": 69,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0370_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1344,7 +902,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 104,
+      "rank": 70,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0371_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1357,7 +915,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 105,
+      "rank": 71,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0380_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1370,20 +928,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 106,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0010_crop_02.jpg",
-      "score": 70,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 107,
+      "rank": 72,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0144_crop_01.jpg",
       "score": 70,
       "veredicto": "FAIL",
@@ -1396,7 +941,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 108,
+      "rank": 73,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0172_crop_01.jpg",
       "score": 70,
       "veredicto": "FAIL",
@@ -1409,7 +954,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 109,
+      "rank": 74,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0260_crop_01.jpg",
       "score": 70,
       "veredicto": "FAIL",
@@ -1422,7 +967,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 110,
+      "rank": 75,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0281_crop_01.jpg",
       "score": 70,
       "veredicto": "FAIL",
@@ -1435,7 +980,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 111,
+      "rank": 76,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0294_crop_01.jpg",
       "score": 70,
       "veredicto": "FAIL",
@@ -1448,150 +993,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 112,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0000_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 113,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0005_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 114,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0013_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 115,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0014_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 116,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0015_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 117,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0025_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 118,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0025_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 119,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0036_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 120,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0046_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 121,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0057_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 122,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0062_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 123,
+      "rank": 77,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0063_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -1604,7 +1006,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 124,
+      "rank": 78,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0066_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -1617,7 +1019,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 125,
+      "rank": 79,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0070_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -1630,7 +1032,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 126,
+      "rank": 80,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0071_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -1643,7 +1045,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 127,
+      "rank": 81,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0076_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -1656,33 +1058,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 128,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0083_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 129,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0085_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 130,
+      "rank": 82,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0086_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -1695,7 +1071,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 131,
+      "rank": 83,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0089_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -1708,20 +1084,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 132,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0090_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 133,
+      "rank": 84,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0093_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -1734,7 +1097,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 134,
+      "rank": 85,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0094_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -1747,7 +1110,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 135,
+      "rank": 86,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0095_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -1760,7 +1123,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 136,
+      "rank": 87,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0096_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -1773,7 +1136,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 137,
+      "rank": 88,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0099_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -1786,20 +1149,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 138,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0102_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 139,
+      "rank": 89,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0103_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -1812,7 +1162,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 140,
+      "rank": 90,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0112_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -1825,33 +1175,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 141,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0114_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 142,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0116_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 143,
+      "rank": 91,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0121_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -1864,98 +1188,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 144,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0126_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 145,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0127_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 146,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0129_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 147,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0132_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 148,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0135_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 149,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0137_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 150,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0137_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 151,
+      "rank": 92,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0157_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -1968,7 +1201,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 152,
+      "rank": 93,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0162_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -1981,7 +1214,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 153,
+      "rank": 94,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0168_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -1994,7 +1227,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 154,
+      "rank": 95,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0173_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2007,7 +1240,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 155,
+      "rank": 96,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0178_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2020,7 +1253,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 156,
+      "rank": 97,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0184_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2033,7 +1266,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 157,
+      "rank": 98,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0186_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2046,7 +1279,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 158,
+      "rank": 99,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0189_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2059,7 +1292,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 159,
+      "rank": 100,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0190_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2072,7 +1305,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 160,
+      "rank": 101,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0193_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2085,46 +1318,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 161,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0205_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 162,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0206_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 163,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0206_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 164,
+      "rank": 102,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0208_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2137,7 +1331,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 165,
+      "rank": 103,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0211_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2150,46 +1344,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 166,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0213_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 167,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0213_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 168,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0218_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 169,
+      "rank": 104,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0221_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2202,7 +1357,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 170,
+      "rank": 105,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0222_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2215,20 +1370,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 171,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0223_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 172,
+      "rank": 106,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0225_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2241,46 +1383,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 173,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0226_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 174,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0226_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 175,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0227_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 176,
+      "rank": 107,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0228_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2293,20 +1396,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 177,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0240_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 178,
+      "rank": 108,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0243_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2319,7 +1409,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 179,
+      "rank": 109,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0244_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2332,20 +1422,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 180,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0245_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 181,
+      "rank": 110,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0246_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2358,7 +1435,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 182,
+      "rank": 111,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0248_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2371,7 +1448,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 183,
+      "rank": 112,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0249_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2384,7 +1461,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 184,
+      "rank": 113,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0252_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2397,7 +1474,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 185,
+      "rank": 114,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0253_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2410,20 +1487,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 186,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0257_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 187,
+      "rank": 115,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0262_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2436,7 +1500,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 188,
+      "rank": 116,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0263_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2449,46 +1513,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 189,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0265_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 190,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0265_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 191,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0266_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 192,
+      "rank": 117,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0267_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2501,7 +1526,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 193,
+      "rank": 118,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0268_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2514,7 +1539,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 194,
+      "rank": 119,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0278_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2527,7 +1552,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 195,
+      "rank": 120,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0279_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2540,7 +1565,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 196,
+      "rank": 121,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0282_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2553,7 +1578,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 197,
+      "rank": 122,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0283_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2566,20 +1591,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 198,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0289_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 199,
+      "rank": 123,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0290_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2592,7 +1604,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 200,
+      "rank": 124,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0291_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2605,7 +1617,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 201,
+      "rank": 125,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0300_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2618,7 +1630,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 202,
+      "rank": 126,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0308_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2631,7 +1643,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 203,
+      "rank": 127,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0310_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2644,20 +1656,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 204,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0322_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 205,
+      "rank": 128,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0327_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2670,7 +1669,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 206,
+      "rank": 129,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0328_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2683,7 +1682,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 207,
+      "rank": 130,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0329_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2696,7 +1695,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 208,
+      "rank": 131,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0332_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2709,7 +1708,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 209,
+      "rank": 132,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0337_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2722,7 +1721,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 210,
+      "rank": 133,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0341_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2735,20 +1734,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 211,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0344_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 212,
+      "rank": 134,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0348_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2761,7 +1747,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 213,
+      "rank": 135,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0357_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2774,46 +1760,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 214,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0366_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 215,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0369_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 216,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0372_crop_01.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 217,
+      "rank": 136,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0373_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2826,7 +1773,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 218,
+      "rank": 137,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0375_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2839,20 +1786,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 219,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0375_crop_02.jpg",
-      "score": 65,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 220,
+      "rank": 138,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0376_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2865,7 +1799,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 221,
+      "rank": 139,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0379_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2878,7 +1812,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 222,
+      "rank": 140,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0381_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2891,137 +1825,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 223,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0002_crop_01.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 224,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0009_crop_01.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 225,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0010_crop_01.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 226,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0014_crop_01.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 227,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0034_crop_02.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 228,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0035_crop_02.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 229,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0040_crop_01.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 230,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0041_crop_02.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 231,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0053_crop_02.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 232,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0061_crop_01.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 233,
+      "rank": 141,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0064_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3034,20 +1838,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 234,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0067_crop_01.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 235,
+      "rank": 142,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0072_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3060,7 +1851,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 236,
+      "rank": 143,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0091_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3073,20 +1864,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 237,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0092_crop_01.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 238,
+      "rank": 144,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0101_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3099,85 +1877,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 239,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0108_crop_02.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 240,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0111_crop_02.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 241,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0125_crop_02.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 242,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0126_crop_02.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 243,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0131_crop_02.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 244,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0136_crop_02.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 245,
+      "rank": 145,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0149_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3190,7 +1890,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 246,
+      "rank": 146,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0153_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3203,7 +1903,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 247,
+      "rank": 147,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0154_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3216,7 +1916,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 248,
+      "rank": 148,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0156_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3229,7 +1929,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 249,
+      "rank": 149,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0161_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3242,7 +1942,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 250,
+      "rank": 150,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0164_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3255,7 +1955,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 251,
+      "rank": 151,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0174_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3268,7 +1968,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 252,
+      "rank": 152,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0180_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3281,7 +1981,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 253,
+      "rank": 153,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0183_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3294,7 +1994,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 254,
+      "rank": 154,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0191_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3307,20 +2007,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 255,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0204_crop_01.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 256,
+      "rank": 155,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0237_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3333,7 +2020,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 257,
+      "rank": 156,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0238_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3346,20 +2033,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 258,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0238_crop_02.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 259,
+      "rank": 157,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0275_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3372,33 +2046,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 260,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0286_crop_01.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 261,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0287_crop_01.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 262,
+      "rank": 158,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0311_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3411,20 +2059,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 263,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0315_crop_01.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 264,
+      "rank": 159,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0320_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3437,20 +2072,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 265,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0324_crop_01.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 266,
+      "rank": 160,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0331_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3463,33 +2085,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 267,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0338_crop_01.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 268,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0354_crop_01.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 269,
+      "rank": 161,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0140_crop_01.jpg",
       "score": 55,
       "veredicto": "FAIL",
@@ -3502,7 +2098,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 270,
+      "rank": 162,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0196_crop_01.jpg",
       "score": 55,
       "veredicto": "FAIL",
@@ -3515,7 +2111,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 271,
+      "rank": 163,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0254_crop_01.jpg",
       "score": 55,
       "veredicto": "FAIL",
@@ -3528,176 +2124,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 272,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0356_crop_02.jpg",
-      "score": 55,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "mala",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 273,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0008_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 274,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0008_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 275,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0009_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 276,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0011_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 277,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0021_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 278,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0021_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 279,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0023_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 280,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0023_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 281,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0024_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 282,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0024_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 283,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0026_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "mala",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 284,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0027_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 285,
+      "rank": 164,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0030_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -3710,124 +2137,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 286,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0031_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 287,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0033_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "mala",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 288,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0037_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 289,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0041_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 290,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0042_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 291,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0042_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 292,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0044_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 293,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0047_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 294,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0047_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 295,
+      "rank": 165,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0050_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -3840,7 +2150,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 296,
+      "rank": 166,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0051_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -3853,33 +2163,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 297,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0052_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 298,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0058_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 299,
+      "rank": 167,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0068_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -3892,7 +2176,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 300,
+      "rank": 168,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0079_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -3905,72 +2189,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 301,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0106_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 302,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0106_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 303,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0113_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 304,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0114_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 305,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0118_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 306,
+      "rank": 169,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0119_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -3983,7 +2202,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 307,
+      "rank": 170,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0124_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -3996,111 +2215,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 308,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0125_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 309,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0127_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 310,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0128_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 311,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0129_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 312,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0133_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 313,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0133_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 314,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0136_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 315,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0139_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 316,
+      "rank": 171,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0152_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4113,7 +2228,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 317,
+      "rank": 172,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0155_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4126,33 +2241,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 318,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0160_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 319,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0182_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 320,
+      "rank": 173,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0198_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4165,7 +2254,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 321,
+      "rank": 174,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0200_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4178,85 +2267,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 322,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0209_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 323,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0210_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 324,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0210_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 325,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0219_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 326,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0224_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 327,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0227_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 328,
+      "rank": 175,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0229_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4269,7 +2280,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 329,
+      "rank": 176,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0232_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4282,7 +2293,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 330,
+      "rank": 177,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0233_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4295,33 +2306,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 331,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0240_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 332,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0247_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 333,
+      "rank": 178,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0256_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4334,46 +2319,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 334,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0273_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 335,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0274_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 336,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0276_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 337,
+      "rank": 179,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0277_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4386,85 +2332,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 338,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0280_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 339,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0286_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 340,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0288_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 341,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0297_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 342,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0312_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 343,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0315_crop_02.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 344,
+      "rank": 180,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0330_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4477,7 +2345,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 345,
+      "rank": 181,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0363_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4490,20 +2358,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 346,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0369_crop_01.jpg",
-      "score": 50,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 347,
+      "rank": 182,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0001_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -4516,7 +2371,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 348,
+      "rank": 183,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0012_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -4529,46 +2384,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 349,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0037_crop_01.jpg",
-      "score": 45,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 350,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0038_crop_01.jpg",
-      "score": 45,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 351,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0052_crop_01.jpg",
-      "score": 45,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 352,
+      "rank": 184,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0084_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -4581,20 +2397,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 353,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0115_crop_01.jpg",
-      "score": 45,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 354,
+      "rank": 185,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0143_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -4607,7 +2410,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 355,
+      "rank": 186,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0145_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -4620,7 +2423,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 356,
+      "rank": 187,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0148_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -4633,7 +2436,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 357,
+      "rank": 188,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0150_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -4646,7 +2449,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 358,
+      "rank": 189,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0151_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -4659,7 +2462,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 359,
+      "rank": 190,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0165_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -4672,33 +2475,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 360,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0197_crop_01.jpg",
-      "score": 45,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 361,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0230_crop_01.jpg",
-      "score": 45,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 362,
+      "rank": 191,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0255_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -4711,20 +2488,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 363,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0274_crop_02.jpg",
-      "score": 45,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 364,
+      "rank": 192,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0302_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -4737,7 +2501,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 365,
+      "rank": 193,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0305_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -4750,7 +2514,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 366,
+      "rank": 194,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0309_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -4763,7 +2527,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 367,
+      "rank": 195,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0318_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -4776,7 +2540,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 368,
+      "rank": 196,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0326_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -4789,20 +2553,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 369,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0335_crop_01.jpg",
-      "score": 45,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 370,
+      "rank": 197,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0339_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -4815,7 +2566,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 371,
+      "rank": 198,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0350_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -4828,7 +2579,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 372,
+      "rank": 199,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0360_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -4841,7 +2592,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 373,
+      "rank": 200,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0362_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -4854,46 +2605,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 374,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0366_crop_01.jpg",
-      "score": 45,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 375,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0000_crop_02.jpg",
-      "score": 35,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 376,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0005_crop_01.jpg",
-      "score": 35,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 377,
+      "rank": 201,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0006_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -4906,7 +2618,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 378,
+      "rank": 202,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0007_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -4919,7 +2631,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 379,
+      "rank": 203,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0017_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -4932,7 +2644,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 380,
+      "rank": 204,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0019_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -4945,7 +2657,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 381,
+      "rank": 205,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0020_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -4958,7 +2670,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 382,
+      "rank": 206,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0043_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -4971,7 +2683,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 383,
+      "rank": 207,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0049_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -4984,20 +2696,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 384,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0054_crop_01.jpg",
-      "score": 35,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 385,
+      "rank": 208,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0060_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5010,7 +2709,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 386,
+      "rank": 209,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0107_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5023,7 +2722,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 387,
+      "rank": 210,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0110_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5036,33 +2735,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 388,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0111_crop_01.jpg",
-      "score": 35,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 389,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0113_crop_02.jpg",
-      "score": 35,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 390,
+      "rank": 211,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0120_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5075,20 +2748,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 391,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0131_crop_01.jpg",
-      "score": 35,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 392,
+      "rank": 212,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0138_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5101,7 +2761,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 393,
+      "rank": 213,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0141_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5114,7 +2774,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 394,
+      "rank": 214,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0146_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5127,7 +2787,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 395,
+      "rank": 215,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0163_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5140,7 +2800,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 396,
+      "rank": 216,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0177_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5153,7 +2813,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 397,
+      "rank": 217,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0194_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5166,7 +2826,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 398,
+      "rank": 218,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0195_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5179,33 +2839,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 399,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0219_crop_01.jpg",
-      "score": 35,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 400,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0220_crop_01.jpg",
-      "score": 35,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 401,
+      "rank": 219,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0224_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5218,33 +2852,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 402,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0231_crop_01.jpg",
-      "score": 35,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 403,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0235_crop_01.jpg",
-      "score": 35,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 404,
+      "rank": 220,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0242_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5257,20 +2865,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 405,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0258_crop_01.jpg",
-      "score": 35,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 406,
+      "rank": 221,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0259_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5283,7 +2878,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 407,
+      "rank": 222,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0269_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5296,7 +2891,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 408,
+      "rank": 223,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0270_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5309,7 +2904,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 409,
+      "rank": 224,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0271_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5322,7 +2917,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 410,
+      "rank": 225,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0296_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5335,7 +2930,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 411,
+      "rank": 226,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0298_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5348,7 +2943,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 412,
+      "rank": 227,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0303_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5361,7 +2956,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 413,
+      "rank": 228,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0316_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5374,7 +2969,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 414,
+      "rank": 229,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0319_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5387,7 +2982,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 415,
+      "rank": 230,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0325_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5400,20 +2995,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 416,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0340_crop_01.jpg",
-      "score": 35,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 417,
+      "rank": 231,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0346_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5426,7 +3008,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 418,
+      "rank": 232,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0365_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5439,33 +3021,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 419,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0039_crop_01.jpg",
-      "score": 30,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 420,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0051_crop_02.jpg",
-      "score": 30,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 421,
+      "rank": 233,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0116_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -5478,59 +3034,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 422,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0128_crop_01.jpg",
-      "score": 30,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 423,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0130_crop_01.jpg",
-      "score": 30,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 424,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0130_crop_02.jpg",
-      "score": 30,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 425,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0132_crop_01.jpg",
-      "score": 30,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 426,
+      "rank": 234,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0170_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -5543,7 +3047,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 427,
+      "rank": 235,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0185_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -5556,33 +3060,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 428,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0203_crop_01.jpg",
-      "score": 30,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 429,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0288_crop_01.jpg",
-      "score": 30,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 430,
+      "rank": 236,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0304_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -5595,150 +3073,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 431,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0343_crop_01.jpg",
-      "score": 30,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 432,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0044_crop_02.jpg",
-      "score": 25,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "mala",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 433,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0013_crop_01.jpg",
-      "score": 20,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 434,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0015_crop_01.jpg",
-      "score": 20,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 435,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0022_crop_01.jpg",
-      "score": 20,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 436,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0033_crop_02.jpg",
-      "score": 20,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 437,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0040_crop_02.jpg",
-      "score": 20,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 438,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0046_crop_01.jpg",
-      "score": 20,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 439,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0053_crop_01.jpg",
-      "score": 20,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 440,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0055_crop_01.jpg",
-      "score": 20,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-16",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 441,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0108_crop_01.jpg",
-      "score": 20,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 442,
+      "rank": 237,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0109_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -5751,7 +3086,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 443,
+      "rank": 238,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0117_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -5764,7 +3099,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 444,
+      "rank": 239,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0118_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -5777,20 +3112,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 445,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0135_crop_02.jpg",
-      "score": 20,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 446,
+      "rank": 240,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0142_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -5803,20 +3125,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 447,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0147_crop_01.jpg",
-      "score": 20,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 448,
+      "rank": 241,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0169_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -5829,7 +3138,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 449,
+      "rank": 242,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0187_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -5842,7 +3151,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 450,
+      "rank": 243,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0216_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -5855,20 +3164,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 451,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0216_crop_02.jpg",
-      "score": 20,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 452,
+      "rank": 244,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0217_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -5881,20 +3177,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 453,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0230_crop_02.jpg",
-      "score": 20,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 454,
+      "rank": 245,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0261_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -5907,7 +3190,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 455,
+      "rank": 246,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0285_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -5920,7 +3203,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 456,
+      "rank": 247,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0295_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -5933,7 +3216,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 457,
+      "rank": 248,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0299_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -5946,7 +3229,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 458,
+      "rank": 249,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0314_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -5959,7 +3242,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 459,
+      "rank": 250,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0364_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -5972,20 +3255,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 460,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0367_crop_01.jpg",
-      "score": 20,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 461,
+      "rank": 251,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0368_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -5998,7 +3268,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 462,
+      "rank": 252,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0374_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -6011,7 +3281,7 @@
       "locacion": "Mirasierra"
     },
     {
-      "rank": 463,
+      "rank": 253,
       "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0377_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -6021,19 +3291,6 @@
       "horneado": "bajo",
       "distribucion": "media",
       "fecha": "2026-04-19",
-      "locacion": "Mirasierra"
-    },
-    {
-      "rank": 464,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Mirasierra_img_0022_crop_02.jpg",
-      "score": 10,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "mala",
-      "fecha": "2026-04-16",
       "locacion": "Mirasierra"
     }
   ]

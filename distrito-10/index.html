@@ -33,6 +33,12 @@
       color:var(--text);
     }
 
+    .top-strip{
+      height:12px;
+      background:#234c43;
+      width:100%;
+    }
+
     .wrap{
       max-width:1500px;
       margin:0 auto;
@@ -50,26 +56,64 @@
 
     .brand-left{
       display:flex;
-      align-items:center;
-      gap:16px;
+      align-items:flex-start;
+      gap:18px;
+      flex-wrap:wrap;
     }
 
-    .brand-logo{
-      width:165px;
-      height:auto;
-      display:block;
+    .brand-text{
+      display:flex;
+      flex-direction:column;
+      gap:4px;
+      padding-top:2px;
     }
 
     .brand-title{
       font-size:28px;
       font-weight:800;
       line-height:1.05;
-      margin-bottom:4px;
+      margin:0;
     }
 
     .brand-subtitle{
       font-size:13px;
       color:var(--muted);
+      margin:0;
+    }
+
+    .brand-period{
+      font-size:15px;
+      color:#4c6b8a;
+      margin:0;
+      font-weight:500;
+    }
+
+    .logo-box{
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      background:#fff;
+      border:1px solid var(--line);
+      border-radius:14px;
+      padding:10px 14px;
+      box-shadow:var(--shadow);
+    }
+
+    .logo-lc{
+      width:190px;
+      max-width:36vw;
+      height:54px;
+      object-fit:contain;
+      object-position:left center;
+      display:block;
+      background:#fff;
+    }
+
+    .logo-gritsee{
+      width:138px;
+      height:42px;
+      object-fit:contain;
+      display:block;
     }
 
     .brand-actions{
@@ -77,6 +121,7 @@
       align-items:center;
       gap:12px;
       flex-wrap:wrap;
+      justify-content:flex-end;
     }
 
     .back-link{
@@ -131,7 +176,7 @@
 
     .cards{
       display:grid;
-      grid-template-columns:repeat(4,minmax(180px,1fr));
+      grid-template-columns:repeat(5,minmax(180px,1fr));
       gap:14px;
     }
 
@@ -394,11 +439,13 @@
       }
     }
 
-    @media (max-width:1020px){
+    @media (max-width:1100px){
       .cards{
         grid-template-columns:repeat(2,minmax(180px,1fr));
       }
+    }
 
+    @media (max-width:1020px){
       .grid-2{
         grid-template-columns:1fr;
       }
@@ -420,25 +467,48 @@
       .location-kpis{
         grid-template-columns:1fr 1fr;
       }
+
+      .brand-actions{
+        width:100%;
+        justify-content:flex-start;
+      }
+
+      .logo-lc{
+        width:160px;
+        height:48px;
+      }
     }
   </style>
 </head>
 <body>
+  <div class="top-strip"></div>
+
   <div class="wrap">
     <div class="brand-bar">
       <div class="brand-left">
-        <img
-          class="brand-logo"
-          src="https://cdn.prod.website-files.com/630dfafcb284c6e437ab4f4a/630dfd5da3b28475ea041458_logo-color-top.svg"
-          alt="Gritsee"
-        />
-        <div>
+        <div class="logo-box">
+          <img
+            class="logo-lc"
+            src="https://d4lblcznaatk8.cloudfront.net/report-resources/little-caesars-logo-vector-text.png"
+            alt="Little Caesars"
+          />
+        </div>
+
+        <div class="brand-text">
           <div class="brand-title" id="districtTitle">Distrito</div>
           <div class="brand-subtitle" id="districtSubtitle">Resumen ejecutivo distrital</div>
+          <div class="brand-period" id="weekRange">Período: -</div>
         </div>
       </div>
 
       <div class="brand-actions">
+        <div class="logo-box">
+          <img
+            class="logo-gritsee"
+            src="https://cdn.prod.website-files.com/630dfafcb284c6e437ab4f4a/630dfd5da3b28475ea041458_logo-color-top.svg"
+            alt="Gritsee"
+          />
+        </div>
         <a class="back-link" href="../">← Volver al índice</a>
       </div>
     </div>
@@ -461,14 +531,18 @@
         </div>
 
         <div class="card">
-          <div class="label">Promedio score</div>
+          <div class="label">Puntaje Promedio</div>
           <div class="value" id="avgScore">0</div>
         </div>
 
         <div class="card">
           <div class="label">PASS / FAIL</div>
           <div class="value" id="passFail">0 / 0</div>
-          <div class="subvalue" id="passRate">0% pass</div>
+        </div>
+
+        <div class="card">
+          <div class="label">Score</div>
+          <div class="value" id="passRate">0%</div>
         </div>
       </div>
     </div>
@@ -489,8 +563,8 @@
 
       <div class="grid-2">
         <div class="chart-card">
-          <h3>Calificaciones promedio</h3>
-          <p>Comparativo de score por locación frente a meta distrital</p>
+          <h3>Score por locación</h3>
+          <p>Comparativo del score frente a meta distrital</p>
           <div class="chart-wrap"><canvas id="scoreChart"></canvas></div>
         </div>
 
@@ -525,7 +599,7 @@
           <thead>
             <tr>
               <th>Locación</th>
-              <th>Promedio</th>
+              <th>Score</th>
               <th>Pizzas</th>
               <th>PASS</th>
               <th>FAIL</th>

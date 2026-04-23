@@ -1,8 +1,8 @@
 {
   "csv_name": "PCSAPI_Distrito 10 - Zaragoza.csv",
-  "total_source_images": 276,
-  "total_pizzas_detected": 503,
-  "average_score": 59.74,
+  "total_source_images": 275,
+  "total_pizzas_detected": 478,
+  "average_score": 59.79,
   "ranking": [
     {
       "rank": 1,
@@ -292,32 +292,6 @@
     },
     {
       "rank": 23,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0175_crop_01.jpg",
-      "score": 85,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 24,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0184_crop_03.jpg",
-      "score": 85,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 25,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0191_crop_02.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -330,20 +304,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 26,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0196_crop_01.jpg",
-      "score": 85,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 27,
+      "rank": 24,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0198_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -356,7 +317,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 28,
+      "rank": 25,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0203_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -369,8 +330,8 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 29,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0205_crop_02.jpg",
+      "rank": 26,
+      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0205_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
       "burbuja": "no",
@@ -382,7 +343,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 30,
+      "rank": 27,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0210_crop_02.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -395,7 +356,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 31,
+      "rank": 28,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0225_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -408,7 +369,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 32,
+      "rank": 29,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0225_crop_02.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -421,7 +382,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 33,
+      "rank": 30,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0235_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -434,7 +395,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 34,
+      "rank": 31,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0259_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -447,7 +408,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 35,
+      "rank": 32,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0277_crop_01.jpg",
       "score": 85,
       "veredicto": "PASS",
@@ -460,7 +421,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 36,
+      "rank": 33,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0001_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -473,7 +434,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 37,
+      "rank": 34,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0003_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -486,7 +447,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 38,
+      "rank": 35,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0004_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -499,7 +460,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 39,
+      "rank": 36,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0005_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -512,7 +473,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 40,
+      "rank": 37,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0011_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -525,7 +486,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 41,
+      "rank": 38,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0012_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -538,7 +499,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 42,
+      "rank": 39,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0012_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -551,7 +512,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 43,
+      "rank": 40,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0014_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -564,7 +525,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 44,
+      "rank": 41,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0018_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -577,7 +538,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 45,
+      "rank": 42,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0030_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -590,7 +551,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 46,
+      "rank": 43,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0036_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -603,7 +564,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 47,
+      "rank": 44,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0038_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -616,7 +577,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 48,
+      "rank": 45,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0038_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -629,7 +590,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 49,
+      "rank": 46,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0043_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -642,7 +603,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 50,
+      "rank": 47,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0047_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -655,7 +616,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 51,
+      "rank": 48,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0049_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -668,7 +629,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 52,
+      "rank": 49,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0050_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -681,7 +642,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 53,
+      "rank": 50,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0051_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -694,7 +655,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 54,
+      "rank": 51,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0052_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -707,7 +668,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 55,
+      "rank": 52,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0053_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -720,7 +681,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 56,
+      "rank": 53,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0062_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -733,7 +694,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 57,
+      "rank": 54,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0063_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -746,7 +707,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 58,
+      "rank": 55,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0063_crop_03.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -759,7 +720,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 59,
+      "rank": 56,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0064_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -772,7 +733,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 60,
+      "rank": 57,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0065_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -785,7 +746,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 61,
+      "rank": 58,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0069_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -798,7 +759,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 62,
+      "rank": 59,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0069_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -811,7 +772,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 63,
+      "rank": 60,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0070_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -824,7 +785,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 64,
+      "rank": 61,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0072_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -837,7 +798,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 65,
+      "rank": 62,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0073_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -850,7 +811,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 66,
+      "rank": 63,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0074_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -863,7 +824,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 67,
+      "rank": 64,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0075_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -876,7 +837,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 68,
+      "rank": 65,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0076_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -889,7 +850,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 69,
+      "rank": 66,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0078_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -902,7 +863,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 70,
+      "rank": 67,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0081_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -915,7 +876,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 71,
+      "rank": 68,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0087_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -928,7 +889,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 72,
+      "rank": 69,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0101_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -941,7 +902,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 73,
+      "rank": 70,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0105_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -954,7 +915,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 74,
+      "rank": 71,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0108_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -967,7 +928,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 75,
+      "rank": 72,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0108_crop_03.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -980,7 +941,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 76,
+      "rank": 73,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0109_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -993,7 +954,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 77,
+      "rank": 74,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0110_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1006,7 +967,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 78,
+      "rank": 75,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0110_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1019,7 +980,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 79,
+      "rank": 76,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0112_crop_03.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1032,7 +993,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 80,
+      "rank": 77,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0115_crop_03.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1045,7 +1006,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 81,
+      "rank": 78,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0117_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1058,7 +1019,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 82,
+      "rank": 79,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0119_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1071,7 +1032,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 83,
+      "rank": 80,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0119_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1084,7 +1045,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 84,
+      "rank": 81,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0121_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1097,7 +1058,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 85,
+      "rank": 82,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0124_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1110,7 +1071,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 86,
+      "rank": 83,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0127_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1123,7 +1084,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 87,
+      "rank": 84,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0129_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1136,7 +1097,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 88,
+      "rank": 85,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0130_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1149,7 +1110,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 89,
+      "rank": 86,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0130_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1162,7 +1123,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 90,
+      "rank": 87,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0133_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1175,7 +1136,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 91,
+      "rank": 88,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0136_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1188,7 +1149,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 92,
+      "rank": 89,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0138_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1201,7 +1162,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 93,
+      "rank": 90,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0138_crop_03.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1214,7 +1175,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 94,
+      "rank": 91,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0139_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1227,7 +1188,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 95,
+      "rank": 92,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0139_crop_03.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1240,7 +1201,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 96,
+      "rank": 93,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0140_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1253,7 +1214,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 97,
+      "rank": 94,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0141_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1266,7 +1227,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 98,
+      "rank": 95,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0142_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1279,7 +1240,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 99,
+      "rank": 96,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0143_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1292,7 +1253,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 100,
+      "rank": 97,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0143_crop_03.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1305,7 +1266,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 101,
+      "rank": 98,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0145_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1318,7 +1279,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 102,
+      "rank": 99,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0148_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1331,7 +1292,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 103,
+      "rank": 100,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0149_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1344,7 +1305,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 104,
+      "rank": 101,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0150_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1357,7 +1318,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 105,
+      "rank": 102,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0151_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1370,7 +1331,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 106,
+      "rank": 103,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0157_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1383,7 +1344,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 107,
+      "rank": 104,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0160_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1396,7 +1357,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 108,
+      "rank": 105,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0162_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1409,7 +1370,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 109,
+      "rank": 106,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0163_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1422,7 +1383,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 110,
+      "rank": 107,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0163_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1435,7 +1396,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 111,
+      "rank": 108,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0164_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1448,7 +1409,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 112,
+      "rank": 109,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0165_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1461,7 +1422,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 113,
+      "rank": 110,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0167_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1474,7 +1435,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 114,
+      "rank": 111,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0169_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1487,7 +1448,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 115,
+      "rank": 112,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0172_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1500,7 +1461,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 116,
+      "rank": 113,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0173_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1513,7 +1474,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 117,
+      "rank": 114,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0178_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1526,7 +1487,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 118,
+      "rank": 115,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0178_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1539,7 +1500,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 119,
+      "rank": 116,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0179_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1552,8 +1513,8 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 120,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0179_crop_02.jpg",
+      "rank": 117,
+      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0180_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
       "burbuja": "no",
@@ -1565,20 +1526,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 121,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0180_crop_02.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 122,
+      "rank": 118,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0181_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1591,7 +1539,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 123,
+      "rank": 119,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0182_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1604,7 +1552,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 124,
+      "rank": 120,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0183_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1617,7 +1565,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 125,
+      "rank": 121,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0184_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1630,7 +1578,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 126,
+      "rank": 122,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0188_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1643,7 +1591,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 127,
+      "rank": 123,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0189_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1656,7 +1604,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 128,
+      "rank": 124,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0189_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1669,7 +1617,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 129,
+      "rank": 125,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0190_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1682,7 +1630,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 130,
+      "rank": 126,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0191_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1695,7 +1643,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 131,
+      "rank": 127,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0197_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1708,20 +1656,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 132,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0204_crop_03.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 133,
+      "rank": 128,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0209_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1734,7 +1669,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 134,
+      "rank": 129,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0210_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1747,7 +1682,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 135,
+      "rank": 130,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0211_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1760,7 +1695,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 136,
+      "rank": 131,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0214_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1773,7 +1708,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 137,
+      "rank": 132,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0216_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1786,7 +1721,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 138,
+      "rank": 133,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0217_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1799,7 +1734,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 139,
+      "rank": 134,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0221_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1812,7 +1747,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 140,
+      "rank": 135,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0222_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1825,7 +1760,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 141,
+      "rank": 136,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0223_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1838,7 +1773,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 142,
+      "rank": 137,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0224_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1851,7 +1786,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 143,
+      "rank": 138,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0225_crop_03.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1864,7 +1799,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 144,
+      "rank": 139,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0234_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1877,7 +1812,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 145,
+      "rank": 140,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0240_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1890,7 +1825,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 146,
+      "rank": 141,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0244_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1903,7 +1838,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 147,
+      "rank": 142,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0246_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1916,7 +1851,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 148,
+      "rank": 143,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0248_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1929,7 +1864,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 149,
+      "rank": 144,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0249_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1942,7 +1877,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 150,
+      "rank": 145,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0253_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1955,7 +1890,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 151,
+      "rank": 146,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0254_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1968,7 +1903,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 152,
+      "rank": 147,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0254_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1981,7 +1916,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 153,
+      "rank": 148,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0255_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -1994,7 +1929,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 154,
+      "rank": 149,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0255_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -2007,7 +1942,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 155,
+      "rank": 150,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0257_crop_02.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -2020,7 +1955,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 156,
+      "rank": 151,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0258_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -2033,7 +1968,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 157,
+      "rank": 152,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0261_crop_01.jpg",
       "score": 75,
       "veredicto": "PASS",
@@ -2046,20 +1981,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 158,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0269_crop_02.jpg",
-      "score": 75,
-      "veredicto": "PASS",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 159,
+      "rank": 153,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0060_crop_02.jpg",
       "score": 70,
       "veredicto": "FAIL",
@@ -2072,7 +1994,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 160,
+      "rank": 154,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0067_crop_02.jpg",
       "score": 70,
       "veredicto": "FAIL",
@@ -2085,20 +2007,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 161,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0084_crop_02.jpg",
-      "score": 70,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 162,
+      "rank": 155,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0135_crop_03.jpg",
       "score": 70,
       "veredicto": "FAIL",
@@ -2111,7 +2020,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 163,
+      "rank": 156,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0173_crop_01.jpg",
       "score": 70,
       "veredicto": "FAIL",
@@ -2124,33 +2033,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 164,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0193_crop_02.jpg",
-      "score": 70,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 165,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0205_crop_01.jpg",
-      "score": 70,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 166,
+      "rank": 157,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0210_crop_03.jpg",
       "score": 70,
       "veredicto": "FAIL",
@@ -2163,7 +2046,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 167,
+      "rank": 158,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0223_crop_01.jpg",
       "score": 70,
       "veredicto": "FAIL",
@@ -2176,7 +2059,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 168,
+      "rank": 159,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0224_crop_03.jpg",
       "score": 70,
       "veredicto": "FAIL",
@@ -2189,7 +2072,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 169,
+      "rank": 160,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0252_crop_02.jpg",
       "score": 70,
       "veredicto": "FAIL",
@@ -2202,7 +2085,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 170,
+      "rank": 161,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0000_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2215,7 +2098,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 171,
+      "rank": 162,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0001_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2228,7 +2111,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 172,
+      "rank": 163,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0020_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2241,7 +2124,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 173,
+      "rank": 164,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0021_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2254,7 +2137,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 174,
+      "rank": 165,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0022_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2267,7 +2150,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 175,
+      "rank": 166,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0023_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2280,7 +2163,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 176,
+      "rank": 167,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0030_crop_02.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2293,7 +2176,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 177,
+      "rank": 168,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0048_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2306,7 +2189,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 178,
+      "rank": 169,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0063_crop_02.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2319,7 +2202,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 179,
+      "rank": 170,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0064_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2332,7 +2215,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 180,
+      "rank": 171,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0066_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2345,7 +2228,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 181,
+      "rank": 172,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0066_crop_02.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2358,7 +2241,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 182,
+      "rank": 173,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0067_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2371,7 +2254,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 183,
+      "rank": 174,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0068_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2384,7 +2267,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 184,
+      "rank": 175,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0106_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2397,7 +2280,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 185,
+      "rank": 176,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0132_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2410,7 +2293,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 186,
+      "rank": 177,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0140_crop_03.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2423,7 +2306,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 187,
+      "rank": 178,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0185_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2436,7 +2319,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 188,
+      "rank": 179,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0192_crop_02.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2449,7 +2332,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 189,
+      "rank": 180,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0243_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2462,7 +2345,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 190,
+      "rank": 181,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0259_crop_02.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2475,7 +2358,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 191,
+      "rank": 182,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0260_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2488,7 +2371,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 192,
+      "rank": 183,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0260_crop_02.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2501,7 +2384,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 193,
+      "rank": 184,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0267_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2514,7 +2397,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 194,
+      "rank": 185,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0268_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
@@ -2527,8 +2410,8 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 195,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0272_crop_02.jpg",
+      "rank": 186,
+      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0272_crop_01.jpg",
       "score": 65,
       "veredicto": "FAIL",
       "burbuja": "no",
@@ -2540,7 +2423,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 196,
+      "rank": 187,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0002_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2553,7 +2436,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 197,
+      "rank": 188,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0004_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2566,7 +2449,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 198,
+      "rank": 189,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0005_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2579,7 +2462,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 199,
+      "rank": 190,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0006_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2592,7 +2475,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 200,
+      "rank": 191,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0007_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2605,7 +2488,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 201,
+      "rank": 192,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0008_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2618,7 +2501,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 202,
+      "rank": 193,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0009_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2631,7 +2514,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 203,
+      "rank": 194,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0010_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2644,7 +2527,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 204,
+      "rank": 195,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0013_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2657,7 +2540,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 205,
+      "rank": 196,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0013_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2670,7 +2553,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 206,
+      "rank": 197,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0014_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2683,7 +2566,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 207,
+      "rank": 198,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0015_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2696,7 +2579,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 208,
+      "rank": 199,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0016_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2709,7 +2592,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 209,
+      "rank": 200,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0017_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2722,7 +2605,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 210,
+      "rank": 201,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0018_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2735,7 +2618,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 211,
+      "rank": 202,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0019_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2748,7 +2631,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 212,
+      "rank": 203,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0020_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2761,7 +2644,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 213,
+      "rank": 204,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0022_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2774,7 +2657,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 214,
+      "rank": 205,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0024_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2787,7 +2670,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 215,
+      "rank": 206,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0025_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2800,7 +2683,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 216,
+      "rank": 207,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0025_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2813,7 +2696,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 217,
+      "rank": 208,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0026_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2826,7 +2709,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 218,
+      "rank": 209,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0028_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2839,7 +2722,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 219,
+      "rank": 210,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0032_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2852,7 +2735,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 220,
+      "rank": 211,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0034_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2865,7 +2748,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 221,
+      "rank": 212,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0040_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2878,7 +2761,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 222,
+      "rank": 213,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0041_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2891,7 +2774,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 223,
+      "rank": 214,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0042_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2904,7 +2787,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 224,
+      "rank": 215,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0044_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2917,7 +2800,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 225,
+      "rank": 216,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0045_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2930,7 +2813,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 226,
+      "rank": 217,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0046_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2943,7 +2826,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 227,
+      "rank": 218,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0048_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2956,7 +2839,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 228,
+      "rank": 219,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0051_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2969,7 +2852,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 229,
+      "rank": 220,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0052_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2982,7 +2865,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 230,
+      "rank": 221,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0055_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -2995,7 +2878,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 231,
+      "rank": 222,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0056_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3008,7 +2891,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 232,
+      "rank": 223,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0056_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3021,7 +2904,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 233,
+      "rank": 224,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0058_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3034,7 +2917,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 234,
+      "rank": 225,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0060_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3047,7 +2930,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 235,
+      "rank": 226,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0061_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3060,7 +2943,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 236,
+      "rank": 227,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0061_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3073,7 +2956,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 237,
+      "rank": 228,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0062_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3086,7 +2969,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 238,
+      "rank": 229,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0071_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3099,7 +2982,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 239,
+      "rank": 230,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0073_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3112,7 +2995,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 240,
+      "rank": 231,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0074_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3125,7 +3008,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 241,
+      "rank": 232,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0079_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3138,7 +3021,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 242,
+      "rank": 233,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0079_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3151,7 +3034,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 243,
+      "rank": 234,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0080_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3164,7 +3047,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 244,
+      "rank": 235,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0082_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3177,7 +3060,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 245,
+      "rank": 236,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0083_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3190,7 +3073,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 246,
+      "rank": 237,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0083_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3203,7 +3086,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 247,
+      "rank": 238,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0084_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3216,7 +3099,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 248,
+      "rank": 239,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0085_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3229,7 +3112,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 249,
+      "rank": 240,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0085_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3242,7 +3125,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 250,
+      "rank": 241,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0086_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3255,7 +3138,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 251,
+      "rank": 242,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0087_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3268,7 +3151,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 252,
+      "rank": 243,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0088_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3281,7 +3164,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 253,
+      "rank": 244,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0089_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3294,7 +3177,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 254,
+      "rank": 245,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0089_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3307,7 +3190,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 255,
+      "rank": 246,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0094_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3320,7 +3203,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 256,
+      "rank": 247,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0097_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3333,7 +3216,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 257,
+      "rank": 248,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0099_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3346,7 +3229,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 258,
+      "rank": 249,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0104_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3359,7 +3242,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 259,
+      "rank": 250,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0104_crop_03.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3372,7 +3255,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 260,
+      "rank": 251,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0105_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3385,7 +3268,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 261,
+      "rank": 252,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0107_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3398,7 +3281,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 262,
+      "rank": 253,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0107_crop_03.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3411,7 +3294,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 263,
+      "rank": 254,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0108_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3424,7 +3307,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 264,
+      "rank": 255,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0114_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3437,7 +3320,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 265,
+      "rank": 256,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0115_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3450,7 +3333,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 266,
+      "rank": 257,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0117_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3463,7 +3346,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 267,
+      "rank": 258,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0120_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3476,7 +3359,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 268,
+      "rank": 259,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0120_crop_03.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3489,7 +3372,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 269,
+      "rank": 260,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0122_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3502,7 +3385,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 270,
+      "rank": 261,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0123_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3515,7 +3398,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 271,
+      "rank": 262,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0125_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3528,7 +3411,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 272,
+      "rank": 263,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0125_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3541,7 +3424,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 273,
+      "rank": 264,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0125_crop_03.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3554,7 +3437,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 274,
+      "rank": 265,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0131_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3567,7 +3450,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 275,
+      "rank": 266,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0132_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3580,7 +3463,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 276,
+      "rank": 267,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0132_crop_03.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3593,7 +3476,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 277,
+      "rank": 268,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0133_crop_03.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3606,7 +3489,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 278,
+      "rank": 269,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0134_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3619,7 +3502,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 279,
+      "rank": 270,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0135_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3632,7 +3515,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 280,
+      "rank": 271,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0136_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3645,7 +3528,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 281,
+      "rank": 272,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0137_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3658,7 +3541,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 282,
+      "rank": 273,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0147_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3671,7 +3554,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 283,
+      "rank": 274,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0147_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3684,7 +3567,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 284,
+      "rank": 275,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0148_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3697,7 +3580,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 285,
+      "rank": 276,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0151_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3710,7 +3593,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 286,
+      "rank": 277,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0152_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3723,7 +3606,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 287,
+      "rank": 278,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0153_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3736,7 +3619,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 288,
+      "rank": 279,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0154_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3749,7 +3632,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 289,
+      "rank": 280,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0155_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3762,7 +3645,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 290,
+      "rank": 281,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0156_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3775,7 +3658,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 291,
+      "rank": 282,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0158_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3788,7 +3671,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 292,
+      "rank": 283,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0159_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3801,7 +3684,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 293,
+      "rank": 284,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0167_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3814,7 +3697,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 294,
+      "rank": 285,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0168_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3827,8 +3710,8 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 295,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0175_crop_02.jpg",
+      "rank": 286,
+      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0175_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
       "burbuja": "no",
@@ -3840,7 +3723,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 296,
+      "rank": 287,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0176_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3853,7 +3736,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 297,
+      "rank": 288,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0176_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3866,7 +3749,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 298,
+      "rank": 289,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0176_crop_03.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3879,7 +3762,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 299,
+      "rank": 290,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0177_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3892,7 +3775,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 300,
+      "rank": 291,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0177_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3905,7 +3788,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 301,
+      "rank": 292,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0178_crop_03.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3918,20 +3801,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 302,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0180_crop_01.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 303,
+      "rank": 293,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0183_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3944,7 +3814,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 304,
+      "rank": 294,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0186_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3957,20 +3827,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 305,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0186_crop_02.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 306,
+      "rank": 295,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0192_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3983,7 +3840,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 307,
+      "rank": 296,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0193_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -3996,20 +3853,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 308,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0195_crop_01.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 309,
+      "rank": 297,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0200_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4022,7 +3866,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 310,
+      "rank": 298,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0204_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4035,7 +3879,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 311,
+      "rank": 299,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0211_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4048,7 +3892,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 312,
+      "rank": 300,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0215_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4061,7 +3905,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 313,
+      "rank": 301,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0219_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4074,7 +3918,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 314,
+      "rank": 302,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0220_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4087,7 +3931,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 315,
+      "rank": 303,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0221_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4100,7 +3944,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 316,
+      "rank": 304,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0222_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4113,7 +3957,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 317,
+      "rank": 305,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0222_crop_03.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4126,7 +3970,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 318,
+      "rank": 306,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0223_crop_03.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4139,7 +3983,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 319,
+      "rank": 307,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0224_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4152,7 +3996,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 320,
+      "rank": 308,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0226_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4165,7 +4009,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 321,
+      "rank": 309,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0226_crop_03.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4178,7 +4022,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 322,
+      "rank": 310,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0227_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4191,7 +4035,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 323,
+      "rank": 311,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0227_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4204,7 +4048,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 324,
+      "rank": 312,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0227_crop_03.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4217,7 +4061,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 325,
+      "rank": 313,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0228_crop_03.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4230,7 +4074,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 326,
+      "rank": 314,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0229_crop_03.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4243,7 +4087,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 327,
+      "rank": 315,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0230_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4256,7 +4100,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 328,
+      "rank": 316,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0230_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4269,7 +4113,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 329,
+      "rank": 317,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0231_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4282,7 +4126,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 330,
+      "rank": 318,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0231_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4295,7 +4139,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 331,
+      "rank": 319,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0232_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4308,7 +4152,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 332,
+      "rank": 320,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0233_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4321,7 +4165,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 333,
+      "rank": 321,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0238_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4334,7 +4178,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 334,
+      "rank": 322,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0241_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4347,7 +4191,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 335,
+      "rank": 323,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0241_crop_02.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4360,7 +4204,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 336,
+      "rank": 324,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0245_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4373,7 +4217,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 337,
+      "rank": 325,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0247_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4386,7 +4230,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 338,
+      "rank": 326,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0250_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4399,7 +4243,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 339,
+      "rank": 327,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0251_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4412,7 +4256,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 340,
+      "rank": 328,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0252_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4425,7 +4269,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 341,
+      "rank": 329,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0257_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4438,7 +4282,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 342,
+      "rank": 330,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0262_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4451,7 +4295,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 343,
+      "rank": 331,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0266_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4464,7 +4308,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 344,
+      "rank": 332,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0269_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4477,7 +4321,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 345,
+      "rank": 333,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0270_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4490,7 +4334,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 346,
+      "rank": 334,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0271_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4503,20 +4347,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 347,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0272_crop_01.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 348,
+      "rank": 335,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0275_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4529,7 +4360,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 349,
+      "rank": 336,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0276_crop_01.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -4542,7 +4373,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 350,
+      "rank": 337,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0009_crop_01.jpg",
       "score": 55,
       "veredicto": "FAIL",
@@ -4555,7 +4386,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 351,
+      "rank": 338,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0017_crop_01.jpg",
       "score": 55,
       "veredicto": "FAIL",
@@ -4568,7 +4399,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 352,
+      "rank": 339,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0090_crop_01.jpg",
       "score": 55,
       "veredicto": "FAIL",
@@ -4581,7 +4412,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 353,
+      "rank": 340,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0093_crop_01.jpg",
       "score": 55,
       "veredicto": "FAIL",
@@ -4594,7 +4425,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 354,
+      "rank": 341,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0102_crop_01.jpg",
       "score": 55,
       "veredicto": "FAIL",
@@ -4607,20 +4438,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 355,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0111_crop_02.jpg",
-      "score": 55,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 356,
+      "rank": 342,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0118_crop_02.jpg",
       "score": 55,
       "veredicto": "FAIL",
@@ -4633,7 +4451,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 357,
+      "rank": 343,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0122_crop_01.jpg",
       "score": 55,
       "veredicto": "FAIL",
@@ -4646,7 +4464,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 358,
+      "rank": 344,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0126_crop_03.jpg",
       "score": 55,
       "veredicto": "FAIL",
@@ -4659,7 +4477,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 359,
+      "rank": 345,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0131_crop_01.jpg",
       "score": 55,
       "veredicto": "FAIL",
@@ -4672,7 +4490,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 360,
+      "rank": 346,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0133_crop_02.jpg",
       "score": 55,
       "veredicto": "FAIL",
@@ -4685,7 +4503,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 361,
+      "rank": 347,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0139_crop_02.jpg",
       "score": 55,
       "veredicto": "FAIL",
@@ -4698,7 +4516,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 362,
+      "rank": 348,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0181_crop_02.jpg",
       "score": 55,
       "veredicto": "FAIL",
@@ -4711,7 +4529,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 363,
+      "rank": 349,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0185_crop_02.jpg",
       "score": 55,
       "veredicto": "FAIL",
@@ -4724,33 +4542,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 364,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0199_crop_02.jpg",
-      "score": 55,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 365,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0206_crop_02.jpg",
-      "score": 55,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 366,
+      "rank": 350,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0212_crop_01.jpg",
       "score": 55,
       "veredicto": "FAIL",
@@ -4763,7 +4555,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 367,
+      "rank": 351,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0256_crop_01.jpg",
       "score": 55,
       "veredicto": "FAIL",
@@ -4776,20 +4568,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 368,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0277_crop_02.jpg",
-      "score": 55,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 369,
+      "rank": 352,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0021_crop_02.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4802,7 +4581,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 370,
+      "rank": 353,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0023_crop_02.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4815,7 +4594,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 371,
+      "rank": 354,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0042_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4828,7 +4607,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 372,
+      "rank": 355,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0046_crop_02.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4841,7 +4620,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 373,
+      "rank": 356,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0058_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4854,7 +4633,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 374,
+      "rank": 357,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0071_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4867,7 +4646,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 375,
+      "rank": 358,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0076_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4880,7 +4659,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 376,
+      "rank": 359,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0143_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4893,7 +4672,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 377,
+      "rank": 360,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0170_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4906,8 +4685,8 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 378,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0196_crop_02.jpg",
+      "rank": 361,
+      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0196_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
       "burbuja": "no",
@@ -4919,7 +4698,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 379,
+      "rank": 362,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0207_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4932,7 +4711,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 380,
+      "rank": 363,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0213_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4945,7 +4724,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 381,
+      "rank": 364,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0226_crop_02.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4958,7 +4737,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 382,
+      "rank": 365,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0232_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4971,7 +4750,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 383,
+      "rank": 366,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0239_crop_02.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4984,7 +4763,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 384,
+      "rank": 367,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0274_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -4997,7 +4776,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 385,
+      "rank": 368,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0010_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5010,7 +4789,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 386,
+      "rank": 369,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0019_crop_02.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5023,7 +4802,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 387,
+      "rank": 370,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0035_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5036,7 +4815,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 388,
+      "rank": 371,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0055_crop_02.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5049,7 +4828,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 389,
+      "rank": 372,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0065_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5062,7 +4841,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 390,
+      "rank": 373,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0091_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5075,7 +4854,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 391,
+      "rank": 374,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0092_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5088,33 +4867,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 392,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0095_crop_01.jpg",
-      "score": 45,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 393,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0097_crop_02.jpg",
-      "score": 45,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 394,
+      "rank": 375,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0098_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5127,7 +4880,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 395,
+      "rank": 376,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0099_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5140,20 +4893,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 396,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0100_crop_02.jpg",
-      "score": 45,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 397,
+      "rank": 377,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0105_crop_03.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5166,7 +4906,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 398,
+      "rank": 378,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0106_crop_03.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5179,7 +4919,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 399,
+      "rank": 379,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0111_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5192,7 +4932,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 400,
+      "rank": 380,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0113_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5205,7 +4945,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 401,
+      "rank": 381,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0114_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5218,7 +4958,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 402,
+      "rank": 382,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0115_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5231,7 +4971,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 403,
+      "rank": 383,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0116_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5244,7 +4984,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 404,
+      "rank": 384,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0118_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5257,7 +4997,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 405,
+      "rank": 385,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0128_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5270,7 +5010,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 406,
+      "rank": 386,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0137_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5283,7 +5023,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 407,
+      "rank": 387,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0138_crop_02.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5296,7 +5036,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 408,
+      "rank": 388,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0141_crop_03.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5309,7 +5049,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 409,
+      "rank": 389,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0142_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5322,7 +5062,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 410,
+      "rank": 390,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0149_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5335,7 +5075,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 411,
+      "rank": 391,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0152_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5348,7 +5088,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 412,
+      "rank": 392,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0153_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5361,7 +5101,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 413,
+      "rank": 393,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0154_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5374,7 +5114,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 414,
+      "rank": 394,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0155_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5387,7 +5127,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 415,
+      "rank": 395,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0174_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5400,20 +5140,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 416,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0192_crop_03.jpg",
-      "score": 45,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-18",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 417,
+      "rank": 396,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0199_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5426,7 +5153,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 418,
+      "rank": 397,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0202_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5439,7 +5166,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 419,
+      "rank": 398,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0208_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5452,7 +5179,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 420,
+      "rank": 399,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0219_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5465,7 +5192,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 421,
+      "rank": 400,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0228_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5478,7 +5205,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 422,
+      "rank": 401,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0228_crop_02.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5491,7 +5218,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 423,
+      "rank": 402,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0236_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5504,7 +5231,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 424,
+      "rank": 403,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0242_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5517,7 +5244,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 425,
+      "rank": 404,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0243_crop_02.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5530,7 +5257,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 426,
+      "rank": 405,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0264_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5543,7 +5270,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 427,
+      "rank": 406,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0265_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -5556,7 +5283,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 428,
+      "rank": 407,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0039_crop_01.jpg",
       "score": 40,
       "veredicto": "FAIL",
@@ -5569,7 +5296,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 429,
+      "rank": 408,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0096_crop_01.jpg",
       "score": 40,
       "veredicto": "FAIL",
@@ -5582,7 +5309,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 430,
+      "rank": 409,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0112_crop_01.jpg",
       "score": 40,
       "veredicto": "FAIL",
@@ -5595,7 +5322,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 431,
+      "rank": 410,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0123_crop_01.jpg",
       "score": 40,
       "veredicto": "FAIL",
@@ -5608,7 +5335,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 432,
+      "rank": 411,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0124_crop_01.jpg",
       "score": 40,
       "veredicto": "FAIL",
@@ -5621,7 +5348,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 433,
+      "rank": 412,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0126_crop_02.jpg",
       "score": 40,
       "veredicto": "FAIL",
@@ -5634,7 +5361,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 434,
+      "rank": 413,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0128_crop_03.jpg",
       "score": 40,
       "veredicto": "FAIL",
@@ -5647,7 +5374,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 435,
+      "rank": 414,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0129_crop_02.jpg",
       "score": 40,
       "veredicto": "FAIL",
@@ -5660,8 +5387,8 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 436,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0196_crop_03.jpg",
+      "rank": 415,
+      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0196_crop_02.jpg",
       "score": 40,
       "veredicto": "FAIL",
       "burbuja": "si",
@@ -5673,7 +5400,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 437,
+      "rank": 416,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0204_crop_02.jpg",
       "score": 40,
       "veredicto": "FAIL",
@@ -5686,7 +5413,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 438,
+      "rank": 417,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0208_crop_02.jpg",
       "score": 40,
       "veredicto": "FAIL",
@@ -5699,7 +5426,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 439,
+      "rank": 418,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0208_crop_03.jpg",
       "score": 40,
       "veredicto": "FAIL",
@@ -5712,33 +5439,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 440,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0265_crop_02.jpg",
-      "score": 40,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 441,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0266_crop_02.jpg",
-      "score": 40,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-19",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 442,
+      "rank": 419,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0008_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5751,7 +5452,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 443,
+      "rank": 420,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0070_crop_02.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5764,7 +5465,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 444,
+      "rank": 421,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0112_crop_02.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5777,7 +5478,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 445,
+      "rank": 422,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0135_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5790,7 +5491,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 446,
+      "rank": 423,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0150_crop_02.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5803,7 +5504,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 447,
+      "rank": 424,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0166_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5816,8 +5517,8 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 448,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0175_crop_03.jpg",
+      "rank": 425,
+      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0175_crop_02.jpg",
       "score": 35,
       "veredicto": "FAIL",
       "burbuja": "si",
@@ -5829,7 +5530,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 449,
+      "rank": 426,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0194_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5842,7 +5543,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 450,
+      "rank": 427,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0206_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5855,7 +5556,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 451,
+      "rank": 428,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0229_crop_02.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -5868,7 +5569,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 452,
+      "rank": 429,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0002_crop_02.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -5881,7 +5582,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 453,
+      "rank": 430,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0016_crop_02.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -5894,7 +5595,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 454,
+      "rank": 431,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0026_crop_02.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -5907,7 +5608,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 455,
+      "rank": 432,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0029_crop_02.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -5920,7 +5621,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 456,
+      "rank": 433,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0033_crop_02.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -5933,7 +5634,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 457,
+      "rank": 434,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0035_crop_02.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -5946,7 +5647,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 458,
+      "rank": 435,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0054_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -5959,7 +5660,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 459,
+      "rank": 436,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0094_crop_02.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -5972,8 +5673,8 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 460,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0095_crop_02.jpg",
+      "rank": 437,
+      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0095_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
       "burbuja": "si",
@@ -5985,20 +5686,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 461,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0098_crop_02.jpg",
-      "score": 30,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "bajo",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 462,
+      "rank": 438,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0100_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6011,7 +5699,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 463,
+      "rank": 439,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0101_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6024,7 +5712,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 464,
+      "rank": 440,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0103_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6037,7 +5725,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 465,
+      "rank": 441,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0104_crop_02.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6050,7 +5738,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 466,
+      "rank": 442,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0106_crop_02.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6063,7 +5751,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 467,
+      "rank": 443,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0107_crop_02.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6076,7 +5764,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 468,
+      "rank": 444,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0109_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6089,7 +5777,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 469,
+      "rank": 445,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0113_crop_02.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6102,7 +5790,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 470,
+      "rank": 446,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0114_crop_03.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6115,7 +5803,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 471,
+      "rank": 447,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0126_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6128,7 +5816,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 472,
+      "rank": 448,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0127_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6141,20 +5829,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 473,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0127_crop_03.jpg",
-      "score": 30,
-      "veredicto": "FAIL",
-      "burbuja": "si",
-      "grasa": "si",
-      "bordes_sucios": "si",
-      "horneado": "correcto",
-      "distribucion": "media",
-      "fecha": "2026-04-17",
-      "locacion": "Zaragoza"
-    },
-    {
-      "rank": 474,
+      "rank": 449,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0128_crop_02.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6167,7 +5842,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 475,
+      "rank": 450,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0129_crop_03.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6180,7 +5855,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 476,
+      "rank": 451,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0142_crop_03.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6193,7 +5868,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 477,
+      "rank": 452,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0160_crop_02.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6206,7 +5881,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 478,
+      "rank": 453,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0164_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6219,7 +5894,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 479,
+      "rank": 454,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0171_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6232,7 +5907,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 480,
+      "rank": 455,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0177_crop_03.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6245,7 +5920,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 481,
+      "rank": 456,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0184_crop_02.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6258,7 +5933,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 482,
+      "rank": 457,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0201_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6271,7 +5946,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 483,
+      "rank": 458,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0201_crop_02.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6284,7 +5959,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 484,
+      "rank": 459,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0218_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6297,7 +5972,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 485,
+      "rank": 460,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0218_crop_02.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6310,7 +5985,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 486,
+      "rank": 461,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0220_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6323,7 +5998,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 487,
+      "rank": 462,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0229_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6336,7 +6011,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 488,
+      "rank": 463,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0237_crop_02.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6349,7 +6024,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 489,
+      "rank": 464,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0239_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6362,7 +6037,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 490,
+      "rank": 465,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0262_crop_02.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6375,7 +6050,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 491,
+      "rank": 466,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0263_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6388,7 +6063,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 492,
+      "rank": 467,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0263_crop_02.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6401,7 +6076,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 493,
+      "rank": 468,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0264_crop_02.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -6414,7 +6089,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 494,
+      "rank": 469,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0029_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -6427,7 +6102,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 495,
+      "rank": 470,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0059_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -6440,7 +6115,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 496,
+      "rank": 471,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0077_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -6453,7 +6128,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 497,
+      "rank": 472,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0103_crop_02.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -6466,7 +6141,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 498,
+      "rank": 473,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0141_crop_02.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -6479,7 +6154,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 499,
+      "rank": 474,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0144_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -6492,7 +6167,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 500,
+      "rank": 475,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0187_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -6505,7 +6180,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 501,
+      "rank": 476,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0188_crop_02.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -6518,7 +6193,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 502,
+      "rank": 477,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0237_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -6531,7 +6206,7 @@
       "locacion": "Zaragoza"
     },
     {
-      "rank": 503,
+      "rank": 478,
       "crop_image": "crops/PCSAPI_Distrito 10 - Zaragoza_img_0261_crop_02.jpg",
       "score": 20,
       "veredicto": "FAIL",

@@ -1,8 +1,8 @@
 {
   "csv_name": "PCSAPI_Distrito 10 - Jardines de Analco.csv",
   "total_source_images": 24,
-  "total_pizzas_detected": 77,
-  "average_score": 63.7,
+  "total_pizzas_detected": 76,
+  "average_score": 63.75,
   "ranking": [
     {
       "rank": 1,
@@ -760,19 +760,6 @@
     },
     {
       "rank": 59,
-      "crop_image": "crops/PCSAPI_Distrito 10 - Jardines de Analco_img_0022_crop_04.jpg",
-      "score": 60,
-      "veredicto": "FAIL",
-      "burbuja": "no",
-      "grasa": "no",
-      "bordes_sucios": "si",
-      "horneado": "alto",
-      "distribucion": "media",
-      "fecha": "2026-04-21",
-      "locacion": "Jardines De Analco"
-    },
-    {
-      "rank": 60,
       "crop_image": "crops/PCSAPI_Distrito 10 - Jardines de Analco_img_0023_crop_03.jpg",
       "score": 60,
       "veredicto": "FAIL",
@@ -785,7 +772,7 @@
       "locacion": "Jardines De Analco"
     },
     {
-      "rank": 61,
+      "rank": 60,
       "crop_image": "crops/PCSAPI_Distrito 10 - Jardines de Analco_img_0001_crop_01.jpg",
       "score": 55,
       "veredicto": "FAIL",
@@ -798,7 +785,7 @@
       "locacion": "Jardines De Analco"
     },
     {
-      "rank": 62,
+      "rank": 61,
       "crop_image": "crops/PCSAPI_Distrito 10 - Jardines de Analco_img_0002_crop_02.jpg",
       "score": 55,
       "veredicto": "FAIL",
@@ -811,7 +798,7 @@
       "locacion": "Jardines De Analco"
     },
     {
-      "rank": 63,
+      "rank": 62,
       "crop_image": "crops/PCSAPI_Distrito 10 - Jardines de Analco_img_0008_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -824,7 +811,7 @@
       "locacion": "Jardines De Analco"
     },
     {
-      "rank": 64,
+      "rank": 63,
       "crop_image": "crops/PCSAPI_Distrito 10 - Jardines de Analco_img_0009_crop_02.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -837,7 +824,7 @@
       "locacion": "Jardines De Analco"
     },
     {
-      "rank": 65,
+      "rank": 64,
       "crop_image": "crops/PCSAPI_Distrito 10 - Jardines de Analco_img_0018_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -850,7 +837,7 @@
       "locacion": "Jardines De Analco"
     },
     {
-      "rank": 66,
+      "rank": 65,
       "crop_image": "crops/PCSAPI_Distrito 10 - Jardines de Analco_img_0019_crop_01.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -863,7 +850,7 @@
       "locacion": "Jardines De Analco"
     },
     {
-      "rank": 67,
+      "rank": 66,
       "crop_image": "crops/PCSAPI_Distrito 10 - Jardines de Analco_img_0021_crop_03.jpg",
       "score": 50,
       "veredicto": "FAIL",
@@ -876,7 +863,7 @@
       "locacion": "Jardines De Analco"
     },
     {
-      "rank": 68,
+      "rank": 67,
       "crop_image": "crops/PCSAPI_Distrito 10 - Jardines de Analco_img_0017_crop_01.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -889,7 +876,7 @@
       "locacion": "Jardines De Analco"
     },
     {
-      "rank": 69,
+      "rank": 68,
       "crop_image": "crops/PCSAPI_Distrito 10 - Jardines de Analco_img_0023_crop_02.jpg",
       "score": 45,
       "veredicto": "FAIL",
@@ -902,7 +889,7 @@
       "locacion": "Jardines De Analco"
     },
     {
-      "rank": 70,
+      "rank": 69,
       "crop_image": "crops/PCSAPI_Distrito 10 - Jardines de Analco_img_0011_crop_02.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -915,7 +902,7 @@
       "locacion": "Jardines De Analco"
     },
     {
-      "rank": 71,
+      "rank": 70,
       "crop_image": "crops/PCSAPI_Distrito 10 - Jardines de Analco_img_0012_crop_01.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -928,7 +915,7 @@
       "locacion": "Jardines De Analco"
     },
     {
-      "rank": 72,
+      "rank": 71,
       "crop_image": "crops/PCSAPI_Distrito 10 - Jardines de Analco_img_0021_crop_04.jpg",
       "score": 35,
       "veredicto": "FAIL",
@@ -941,7 +928,7 @@
       "locacion": "Jardines De Analco"
     },
     {
-      "rank": 73,
+      "rank": 72,
       "crop_image": "crops/PCSAPI_Distrito 10 - Jardines de Analco_img_0001_crop_02.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -954,7 +941,7 @@
       "locacion": "Jardines De Analco"
     },
     {
-      "rank": 74,
+      "rank": 73,
       "crop_image": "crops/PCSAPI_Distrito 10 - Jardines de Analco_img_0011_crop_03.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -967,7 +954,7 @@
       "locacion": "Jardines De Analco"
     },
     {
-      "rank": 75,
+      "rank": 74,
       "crop_image": "crops/PCSAPI_Distrito 10 - Jardines de Analco_img_0016_crop_01.jpg",
       "score": 30,
       "veredicto": "FAIL",
@@ -980,7 +967,7 @@
       "locacion": "Jardines De Analco"
     },
     {
-      "rank": 76,
+      "rank": 75,
       "crop_image": "crops/PCSAPI_Distrito 10 - Jardines de Analco_img_0020_crop_01.jpg",
       "score": 20,
       "veredicto": "FAIL",
@@ -993,7 +980,7 @@
       "locacion": "Jardines De Analco"
     },
     {
-      "rank": 77,
+      "rank": 76,
       "crop_image": "crops/PCSAPI_Distrito 10 - Jardines de Analco_img_0022_crop_03.jpg",
       "score": 20,
       "veredicto": "FAIL",

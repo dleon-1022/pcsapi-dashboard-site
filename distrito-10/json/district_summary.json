@@ -3,11 +3,11 @@
   "district_slug": "distrito-10",
   "display_name": "Distrito 10",
   "total_locations": 9,
-  "total_pizzas": 4541,
-  "average_score": 60.28,
-  "pass_count": 1043,
-  "fail_count": 3498,
-  "burbuja_count": 954,
-  "grasa_count": 1473,
-  "bordes_count": 2639
+  "total_pizzas": 3504,
+  "average_score": 61.0,
+  "pass_count": 815,
+  "fail_count": 2689,
+  "burbuja_count": 622,
+  "grasa_count": 1223,
+  "bordes_count": 2041
 }
