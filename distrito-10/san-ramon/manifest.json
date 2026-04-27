@@ -1,9 +1,0 @@
-{
-  "datasets": [
-    {
-      "csv_name": "PCSAPI_Distrito 10 - San Ramón.csv",
-      "detailed_json": "./json/detailed.json",
-      "ranking_json": "./json/ranking.json"
-    }
-  ]
-}

@@ -1,7 +1,7 @@
 {
   "datasets": [
     {
-      "csv_name": "PCSAPI_Distrito 10 - Ramos Arizpe.csv",
+      "csv_name": "PCSAPI Distrito-10 - Ramos Arizpe.csv",
       "detailed_json": "./json/detailed.json",
       "ranking_json": "./json/ranking.json"
     }

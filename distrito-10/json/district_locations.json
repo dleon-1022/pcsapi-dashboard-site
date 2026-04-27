@@ -1,201 +1,25 @@
 {
   "locations": [
     {
-      "location": "Otilio",
-      "location_slug": "otilio",
-      "relative_url": "./otilio/",
-      "average_score": 69.93,
-      "total_pizzas": 75,
-      "pass_count": 44,
-      "fail_count": 31,
-      "burbuja_count": 7,
-      "grasa_count": 22,
-      "bordes_count": 19,
+      "location": "Ramos Arizpe",
+      "location_slug": "ramos-arizpe",
+      "relative_url": "./ramos-arizpe/",
+      "average_score": 64.27,
+      "total_pizzas": 1155,
+      "pass_count": 788,
+      "fail_count": 367,
+      "burbuja_count": 361,
+      "grasa_count": 7,
+      "bordes_count": 1097,
       "best_item": {
-        "score": 90,
+        "score": 80,
         "veredicto": "PASS",
-        "crop_image": "./otilio/crops/PCSAPI_Distrito 10 - Otilio_img_0031_crop_01.jpg"
+        "crop_image": "./ramos-arizpe/crops/PCSAPI Distrito-10 - Ramos Arizpe_img_0795_crop_01.jpg"
       },
       "worst_item": {
         "score": 30,
         "veredicto": "FAIL",
-        "crop_image": "./otilio/crops/PCSAPI_Distrito 10 - Otilio_img_0004_crop_01.jpg"
-      }
-    },
-    {
-      "location": "Jardines De Analco",
-      "location_slug": "jardines-de-analco",
-      "relative_url": "./jardines-de-analco/",
-      "average_score": 63.75,
-      "total_pizzas": 76,
-      "pass_count": 31,
-      "fail_count": 45,
-      "burbuja_count": 12,
-      "grasa_count": 19,
-      "bordes_count": 29,
-      "best_item": {
-        "score": 85,
-        "veredicto": "PASS",
-        "crop_image": "./jardines-de-analco/crops/PCSAPI_Distrito 10 - Jardines de Analco_img_0019_crop_02.jpg"
-      },
-      "worst_item": {
-        "score": 20,
-        "veredicto": "FAIL",
-        "crop_image": "./jardines-de-analco/crops/PCSAPI_Distrito 10 - Jardines de Analco_img_0020_crop_01.jpg"
-      }
-    },
-    {
-      "location": "Maravillas",
-      "location_slug": "maravillas",
-      "relative_url": "./maravillas/",
-      "average_score": 63.31,
-      "total_pizzas": 584,
-      "pass_count": 166,
-      "fail_count": 418,
-      "burbuja_count": 64,
-      "grasa_count": 237,
-      "bordes_count": 332,
-      "best_item": {
-        "score": 85,
-        "veredicto": "PASS",
-        "crop_image": "./maravillas/crops/PCSAPI_Distrito 10 - Maravillas_img_0232_crop_01.jpg"
-      },
-      "worst_item": {
-        "score": 20,
-        "veredicto": "FAIL",
-        "crop_image": "./maravillas/crops/PCSAPI_Distrito 10 - Maravillas_img_0034_crop_03.jpg"
-      }
-    },
-    {
-      "location": "San Ramón",
-      "location_slug": "san-ramon",
-      "relative_url": "./san-ramon/",
-      "average_score": 62.16,
-      "total_pizzas": 449,
-      "pass_count": 104,
-      "fail_count": 345,
-      "burbuja_count": 33,
-      "grasa_count": 78,
-      "bordes_count": 324,
-      "best_item": {
-        "score": 90,
-        "veredicto": "PASS",
-        "crop_image": "./san-ramon/crops/PCSAPI_Distrito 10 - San Ramón_img_0265_crop_01.jpg"
-      },
-      "worst_item": {
-        "score": 20,
-        "veredicto": "FAIL",
-        "crop_image": "./san-ramon/crops/PCSAPI_Distrito 10 - San Ramón_img_0032_crop_01.jpg"
-      }
-    },
-    {
-      "location": "Zaragoza",
-      "location_slug": "zaragoza",
-      "relative_url": "./zaragoza/",
-      "average_score": 59.79,
-      "total_pizzas": 478,
-      "pass_count": 152,
-      "fail_count": 326,
-      "burbuja_count": 126,
-      "grasa_count": 82,
-      "bordes_count": 236,
-      "best_item": {
-        "score": 85,
-        "veredicto": "PASS",
-        "crop_image": "./zaragoza/crops/PCSAPI_Distrito 10 - Zaragoza_img_0277_crop_01.jpg"
-      },
-      "worst_item": {
-        "score": 20,
-        "veredicto": "FAIL",
-        "crop_image": "./zaragoza/crops/PCSAPI_Distrito 10 - Zaragoza_img_0029_crop_01.jpg"
-      }
-    },
-    {
-      "location": "Ramos Arizpe",
-      "location_slug": "ramos-arizpe",
-      "relative_url": "./ramos-arizpe/",
-      "average_score": 58.24,
-      "total_pizzas": 443,
-      "pass_count": 33,
-      "fail_count": 410,
-      "burbuja_count": 51,
-      "grasa_count": 8,
-      "bordes_count": 403,
-      "best_item": {
-        "score": 90,
-        "veredicto": "PASS",
-        "crop_image": "./ramos-arizpe/crops/PCSAPI_Distrito 10 - Ramos Arizpe_img_0178_crop_01.jpg"
-      },
-      "worst_item": {
-        "score": 20,
-        "veredicto": "FAIL",
-        "crop_image": "./ramos-arizpe/crops/PCSAPI_Distrito 10 - Ramos Arizpe_img_0309_crop_02.jpg"
-      }
-    },
-    {
-      "location": "Mirasierra",
-      "location_slug": "mirasierra",
-      "relative_url": "./mirasierra/",
-      "average_score": 58.1,
-      "total_pizzas": 253,
-      "pass_count": 71,
-      "fail_count": 182,
-      "burbuja_count": 75,
-      "grasa_count": 177,
-      "bordes_count": 63,
-      "best_item": {
-        "score": 90,
-        "veredicto": "PASS",
-        "crop_image": "./mirasierra/crops/PCSAPI_Distrito 10 - Mirasierra_img_0355_crop_01.jpg"
-      },
-      "worst_item": {
-        "score": 20,
-        "veredicto": "FAIL",
-        "crop_image": "./mirasierra/crops/PCSAPI_Distrito 10 - Mirasierra_img_0109_crop_01.jpg"
-      }
-    },
-    {
-      "location": "Florida",
-      "location_slug": "florida",
-      "relative_url": "./florida/",
-      "average_score": 56.93,
-      "total_pizzas": 490,
-      "pass_count": 112,
-      "fail_count": 378,
-      "burbuja_count": 129,
-      "grasa_count": 333,
-      "bordes_count": 175,
-      "best_item": {
-        "score": 90,
-        "veredicto": "PASS",
-        "crop_image": "./florida/crops/PCSAPI_Distrito 10 - Florida_img_0019_crop_01.jpg"
-      },
-      "worst_item": {
-        "score": 20,
-        "veredicto": "FAIL",
-        "crop_image": "./florida/crops/PCSAPI_Distrito 10 - Florida_img_0000_crop_01.jpg"
-      }
-    },
-    {
-      "location": "Club De Leones",
-      "location_slug": "club-de-leones",
-      "relative_url": "./club-de-leones/",
-      "average_score": 56.78,
-      "total_pizzas": 656,
-      "pass_count": 102,
-      "fail_count": 554,
-      "burbuja_count": 125,
-      "grasa_count": 267,
-      "bordes_count": 460,
-      "best_item": {
-        "score": 90,
-        "veredicto": "PASS",
-        "crop_image": "./club-de-leones/crops/PCSAPI_Distrito 10 - Club de Leones_img_0277_crop_02.jpg"
-      },
-      "worst_item": {
-        "score": 20,
-        "veredicto": "FAIL",
-        "crop_image": "./club-de-leones/crops/PCSAPI_Distrito 10 - Club de Leones_img_0005_crop_01.jpg"
+        "crop_image": "./ramos-arizpe/crops/PCSAPI Distrito-10 - Ramos Arizpe_img_0004_crop_01.jpg"
       }
     }
   ]
