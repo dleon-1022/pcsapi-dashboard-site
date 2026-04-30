@@ -1,9 +1,0 @@
-{
-  "datasets": [
-    {
-      "csv_name": "PCSAPI D-13 - Cardenas.csv",
-      "detailed_json": "./json/detailed.json",
-      "ranking_json": "./json/ranking.json"
-    }
-  ]
-}

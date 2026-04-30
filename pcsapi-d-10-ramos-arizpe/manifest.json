@@ -1,9 +1,0 @@
-{
-  "datasets": [
-    {
-      "csv_name": "PCSAPI D-10 - Ramos Arizpe.csv",
-      "detailed_json": "./json/detailed.json",
-      "ranking_json": "./json/ranking.json"
-    }
-  ]
-}

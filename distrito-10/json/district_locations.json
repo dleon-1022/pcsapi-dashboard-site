@@ -1,0 +1,194 @@
+[
+  {
+    "location": "Club De Leones",
+    "location_slug": "club-de-leones",
+    "relative_url": "./club-de-leones/",
+    "average_score": 70.59,
+    "score": 70.59,
+    "total_pizzas": 673,
+    "pizzas_analizadas": 673,
+    "pass_count": 499,
+    "fail_count": 174,
+    "burbuja_count": 109,
+    "grasa_count": 274,
+    "bordes_count": 489,
+    "best_item": {
+      "score": 90,
+      "veredicto": "PASS",
+      "crop_image": "./club-de-leones/crops/PCSAPI D-10 - Club de Leones_img_0420_crop_01.jpg"
+    },
+    "worst_item": {
+      "score": 20,
+      "veredicto": "FAIL",
+      "crop_image": "./club-de-leones/crops/PCSAPI D-10 - Club de Leones_img_0082_crop_01.jpg"
+    }
+  },
+  {
+    "location": "Florida",
+    "location_slug": "florida",
+    "relative_url": "./florida/",
+    "average_score": 66.59,
+    "score": 66.59,
+    "total_pizzas": 462,
+    "pizzas_analizadas": 462,
+    "pass_count": 313,
+    "fail_count": 149,
+    "burbuja_count": 89,
+    "grasa_count": 227,
+    "bordes_count": 240,
+    "best_item": {
+      "score": 90,
+      "veredicto": "PASS",
+      "crop_image": "./florida/crops/PCSAPI D-10 - Florida_img_0317_crop_01.jpg"
+    },
+    "worst_item": {
+      "score": 15,
+      "veredicto": "FAIL",
+      "crop_image": "./florida/crops/PCSAPI D-10 - Florida_img_0056_crop_01.jpg"
+    }
+  },
+  {
+    "location": "Jardines De Analco",
+    "location_slug": "jardines-de-analco",
+    "relative_url": "./jardines-de-analco/",
+    "average_score": 67.2,
+    "score": 67.2,
+    "total_pizzas": 193,
+    "pizzas_analizadas": 193,
+    "pass_count": 119,
+    "fail_count": 74,
+    "burbuja_count": 39,
+    "grasa_count": 33,
+    "bordes_count": 59,
+    "best_item": {
+      "score": 90,
+      "veredicto": "PASS",
+      "crop_image": "./jardines-de-analco/crops/PCSAPI D-10 - Jardines de Analco_img_0014_crop_01.jpg"
+    },
+    "worst_item": {
+      "score": 20,
+      "veredicto": "FAIL",
+      "crop_image": "./jardines-de-analco/crops/PCSAPI D-10 - Jardines de Analco_img_0004_crop_03.jpg"
+    }
+  },
+  {
+    "location": "Maravillas",
+    "location_slug": "maravillas",
+    "relative_url": "./maravillas/",
+    "average_score": 68.82,
+    "score": 68.82,
+    "total_pizzas": 591,
+    "pizzas_analizadas": 591,
+    "pass_count": 415,
+    "fail_count": 176,
+    "burbuja_count": 109,
+    "grasa_count": 222,
+    "bordes_count": 368,
+    "best_item": {
+      "score": 90,
+      "veredicto": "PASS",
+      "crop_image": "./maravillas/crops/PCSAPI D-10 - Maravillas_img_0237_crop_03.jpg"
+    },
+    "worst_item": {
+      "score": 15,
+      "veredicto": "FAIL",
+      "crop_image": "./maravillas/crops/PCSAPI D-10 - Maravillas_img_0025_crop_03.jpg"
+    }
+  },
+  {
+    "location": "Otilio",
+    "location_slug": "otilio",
+    "relative_url": "./otilio/",
+    "average_score": 67.62,
+    "score": 67.62,
+    "total_pizzas": 242,
+    "pizzas_analizadas": 242,
+    "pass_count": 153,
+    "fail_count": 89,
+    "burbuja_count": 30,
+    "grasa_count": 89,
+    "bordes_count": 63,
+    "best_item": {
+      "score": 90,
+      "veredicto": "PASS",
+      "crop_image": "./otilio/crops/PCSAPI D-10 - Otilio_img_0178_crop_01.jpg"
+    },
+    "worst_item": {
+      "score": 15,
+      "veredicto": "FAIL",
+      "crop_image": "./otilio/crops/PCSAPI D-10 - Otilio_img_0102_crop_01.jpg"
+    }
+  },
+  {
+    "location": "Ramos Arizpe",
+    "location_slug": "ramos-arizpe",
+    "relative_url": "./ramos-arizpe/",
+    "average_score": 63.19,
+    "score": 63.19,
+    "total_pizzas": 561,
+    "pizzas_analizadas": 561,
+    "pass_count": 331,
+    "fail_count": 230,
+    "burbuja_count": 167,
+    "grasa_count": 4,
+    "bordes_count": 530,
+    "best_item": {
+      "score": 85,
+      "veredicto": "PASS",
+      "crop_image": "./ramos-arizpe/crops/PCSAPI D-10 - Ramos Arizpe_img_0376_crop_02.jpg"
+    },
+    "worst_item": {
+      "score": 15,
+      "veredicto": "FAIL",
+      "crop_image": "./ramos-arizpe/crops/PCSAPI D-10 - Ramos Arizpe_img_0046_crop_01.jpg"
+    }
+  },
+  {
+    "location": "San Ramon",
+    "location_slug": "san-ramon",
+    "relative_url": "./san-ramon/",
+    "average_score": 70.79,
+    "score": 70.79,
+    "total_pizzas": 510,
+    "pizzas_analizadas": 510,
+    "pass_count": 379,
+    "fail_count": 131,
+    "burbuja_count": 89,
+    "grasa_count": 38,
+    "bordes_count": 351,
+    "best_item": {
+      "score": 90,
+      "veredicto": "PASS",
+      "crop_image": "./san-ramon/crops/PCSAPI D-10 - San Ramón_img_0341_crop_01.jpg"
+    },
+    "worst_item": {
+      "score": 20,
+      "veredicto": "FAIL",
+      "crop_image": "./san-ramon/crops/PCSAPI D-10 - San Ramón_img_0163_crop_02.jpg"
+    }
+  },
+  {
+    "location": "Zaragoza",
+    "location_slug": "zaragoza",
+    "relative_url": "./zaragoza/",
+    "average_score": 65.96,
+    "score": 65.96,
+    "total_pizzas": 575,
+    "pizzas_analizadas": 575,
+    "pass_count": 345,
+    "fail_count": 230,
+    "burbuja_count": 128,
+    "grasa_count": 86,
+    "bordes_count": 283,
+    "best_item": {
+      "score": 90,
+      "veredicto": "PASS",
+      "crop_image": "./zaragoza/crops/PCSAPI D-10 - Zaragoza_img_0317_crop_02.jpg"
+    },
+    "worst_item": {
+      "score": 15,
+      "veredicto": "FAIL",
+      "crop_image": "./zaragoza/crops/PCSAPI D-10 - Zaragoza_img_0302_crop_02.jpg"
+    }
+  }
+]

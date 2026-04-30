@@ -1,0 +1,26 @@
+[
+  {
+    "location": "Cardenas",
+    "location_slug": "cardenas",
+    "relative_url": "./cardenas/",
+    "average_score": 69.69,
+    "score": 69.69,
+    "total_pizzas": 647,
+    "pizzas_analizadas": 647,
+    "pass_count": 460,
+    "fail_count": 187,
+    "burbuja_count": 67,
+    "grasa_count": 7,
+    "bordes_count": 581,
+    "best_item": {
+      "score": 85,
+      "veredicto": "PASS",
+      "crop_image": "./cardenas/crops/PCSAPI D-13 - Cardenas_img_0229_crop_01.jpg"
+    },
+    "worst_item": {
+      "score": 15,
+      "veredicto": "FAIL",
+      "crop_image": "./cardenas/crops/PCSAPI D-13 - Cardenas_img_0203_crop_01.jpg"
+    }
+  }
+]

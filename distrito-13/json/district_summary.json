@@ -1,0 +1,15 @@
+{
+  "company": "PCSAPI",
+  "district": "Distrito 13",
+  "district_number": "13",
+  "location_count": 1,
+  "locations_count": 1,
+  "total_locations": 1,
+  "total_pizzas": 647,
+  "pizzas_analizadas": 647,
+  "average_score": 69.69,
+  "score": 69.69,
+  "pass_count": 460,
+  "fail_count": 187,
+  "pass_rate": 71.1
+}
